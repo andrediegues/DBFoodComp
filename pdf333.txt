@@ -1,0 +1,106 @@
+https://insa.foodcase.ch/                                                                Version_p pt
+
+
+  Food_pt
+  Nome:                     Pato sem pele estufado com margarina
+
+  Grupo:                    Carne e Derivados, Criação e Caça
+
+  SubGrupo:                 Criação e caça
+
+  Parte Edível:             100%
+
+  Código:                   IS279
+
+  Código FoodEX2:
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                   Valor         Unidade   Fonte
+    Valor Energético
+        Energia                                            969          kJ        weighted
+        Energia                                            232          kcal      weighted
+    Macroconstituintes
+       Lípidos                                             13.7         g         weighted
+            Ácidos gordos saturados                        4.8          g         weighted
+            Ácidos gordos monoinsaturados                  4.9          g         weighted
+            Ácidos gordos polinsaturados                   2.4          g         weighted
+            Ácido linoleico                                2.09         g         weighted
+
+
+                                                         Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        0             g         weighted
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              0             g         weighted
+                Lactose                               0.0           g         weighted
+                Amido                                 0             g         weighted
+           Sal                                        1520          mg        weighted
+           Fibra alimentar                            0             g         weighted
+           Proteína                                   27.2          g         weighted
+           Álcool                                     0             g         weighted
+           Água                                       56.1          g         weighted
+           Ácidos orgânicos                           0             g         weighted
+           Colesterol                                 131           mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    77            µg        weighted
+        Caroteno                                      62            µg        weighted
+        Vitamina D                                    0.3           µg        weighted
+        a-tocoferol                                   0.05          mg        weighted
+        Tiamina                                       0.26          mg        weighted
+        Riboflavina                                   0.6           mg        weighted
+        Equivalentes de niacina                       13.4          mg        weighted
+        Niacina                                       4.5           mg        weighted
+        Vitamina B6                                   0.29          mg        weighted
+        Vitamina B12                                  2.1           µg        weighted
+        Vitamina C                                    1.9           mg        weighted
+        Folatos                                       19            µg        weighted
+    Minerais
+        Cinza                                         2.90          g         weighted
+        Sódio (Na)                                    610           mg        weighted
+        Potássio (K)                                  210           mg        weighted
+        Cálcio (Ca)                                   17            mg        weighted
+        Fósforo (P)                                   200           mg        weighted
+        Magnésio (Mg)                                 23            mg        weighted
+        Ferro (Fe)                                    2.8           mg        weighted
+        Zinco (Zn)                                    2.5           mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                 Version_p pt
+
+
+
+
+                            Page 3 of 3
+

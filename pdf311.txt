@@ -1,0 +1,111 @@
+https://insa.foodcase.ch/                                                                            Version_p pt
+
+
+  Food_pt
+  Nome:                     Perna de frango sem pele crua
+
+  Grupo:                    Carne e Derivados, Criação e Caça
+
+  SubGrupo:                 Criação e caça
+
+  Parte Edível:             24% (Proporção da carcassa de frango cru(carne, pele e ossos))
+
+  Código:                   IS012
+
+  Código FoodEX2:
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                      Valor              Unidade       Fonte
+    Valor Energético
+        Energia                                              470                 kJ           weighted
+        Energia                                              111                 kcal         weighted
+    Macroconstituintes
+       Lípidos                                               2.6                 g            57
+            Ácidos gordos saturados                          0.6                 g            weighted
+            Ácidos gordos monoinsaturados                    0.9                 g            weighted
+            Ácidos gordos polinsaturados                     0.5                 g            weighted
+            Ácido linoleico                                  0.5                 g            weighted
+
+
+                                                            Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        0             g         weighted
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              0             g         weighted
+                Lactose                               0             g         weighted
+                Amido                                 0             g         weighted
+           Sal                                        220           mg        weighted
+           Fibra alimentar                            0             g         57
+           Proteína                                   22            g         57
+           Álcool                                     0             g         weighted
+           Água                                       74.3          g         weighted
+           Ácidos orgânicos                           0             g         weighted
+           Colesterol                                 100           mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    20            µg        57
+        Caroteno                                      0             µg        57
+        Vitamina D                                    0.2           µg        weighted
+        a-tocoferol                                   0.17          mg        weighted
+        Tiamina                                       0.14          mg        weighted
+        Riboflavina                                   0.22          mg        weighted
+        Equivalentes de niacina                       10            mg        weighted
+        Niacina                                       5.9           mg        weighted
+        Vitamina B6                                   0.28          mg        weighted
+        Vitamina B12                                  1             µg        weighted
+        Vitamina C                                    0             mg        weighted
+        Folatos                                       9             µg        weighted
+    Minerais
+        Cinza                                         1.21          g         weighted
+        Sódio (Na)                                    90            mg        weighted
+        Potássio (K)                                  390           mg        weighted
+        Cálcio (Ca)                                   18            mg        57
+        Fósforo (P)                                   190           mg        57
+        Magnésio (Mg)                                 26            mg        weighted
+        Ferro (Fe)                                    1.2           mg        weighted
+        Zinco (Zn)                                    1.1           mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                                                                              Version_p pt
+
+
+  Id_pt           Reference_pt
+    57              PIABAD (1993) Programa do Instituto de Alimentação Becel para análise de dietas: programa
+                    profissional para computadores pessoais. Lisboa: IAB
+
+
+
+
+                                                      Page 3 of 3
+

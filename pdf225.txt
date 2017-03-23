@@ -1,0 +1,113 @@
+https://insa.foodcase.ch/                                                                Version_p pt
+
+
+  Food_pt
+  Nome:                     Rissol
+
+  Grupo:                    Carne e Derivados, Criação e Caça
+
+  SubGrupo:                 Salgados de carne
+
+  Parte Edível:             100%
+
+  Código:                   IS368
+
+  Código FoodEX2:
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                   Valor         Unidade   Fonte
+    Valor Energético
+        Energia                                            1170         kJ        weighted
+        Energia                                            280          kcal      weighted
+    Macroconstituintes
+       Lípidos                                             13.4         g         68
+            Ácidos gordos saturados                        3.4          g         weighted
+            Ácidos gordos monoinsaturados                  3.9          g         weighted
+            Ácidos gordos polinsaturados                   4.1          g         weighted
+            Ácido linoleico                                4.1          g         weighted
+
+
+                                                         Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        31.8          g         68
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              0.5           g         weighted
+                Lactose                               0             g         weighted
+                Amido                                 30.7          g         weighted
+           Sal                                        1600          mg        weighted
+           Fibra alimentar                            1.3           g         weighted
+           Proteína                                   7.3           g         68
+           Álcool                                     0             g         weighted
+           Água                                       45.4          g         weighted
+           Ácidos orgânicos                           0             g         weighted
+           Colesterol                                 66            mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    29            µg        weighted
+        Caroteno                                      1             µg        weighted
+        Vitamina D                                    0.2           µg        weighted
+        a-tocoferol                                   2.4           mg        weighted
+        Tiamina                                       0.13          mg        weighted
+        Riboflavina                                   0.09          mg        weighted
+        Equivalentes de niacina                       3.7           mg        weighted
+        Niacina                                       2.1           mg        weighted
+        Vitamina B6                                   0.09          mg        weighted
+        Vitamina B12                                  0.5           µg        weighted
+        Vitamina C                                    0             mg        weighted
+        Folatos                                       11            µg        weighted
+    Minerais
+        Cinza                                         1.18          g         weighted
+        Sódio (Na)                                    640           mg        57
+        Potássio (K)                                  140           mg        weighted
+        Cálcio (Ca)                                   31            mg        57
+        Fósforo (P)                                   98            mg        57
+        Magnésio (Mg)                                 21            mg        weighted
+        Ferro (Fe)                                    1             mg        57
+        Zinco (Zn)                                    1.2           mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                                                                            Version_p pt
+
+
+  Id_pt           Reference_pt
+    57              PIABAD (1993) Programa do Instituto de Alimentação Becel para análise de dietas: programa
+                    profissional para computadores pessoais. Lisboa: IAB
+    68              Mano, ML. Meister, MC; Fontes, MR; Lobo, P (1989) - Composição dos Alimentos Cozinhados. Alguns
+                    Produtos Servidos em “Snack-bares”. Revista Portuguesa de Nutrição, Vol. 1(4), p. 19-24.
+
+
+
+
+                                                     Page 3 of 3
+

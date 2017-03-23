@@ -1,0 +1,106 @@
+https://insa.foodcase.ch/                                                                 Version_p pt
+
+
+  Food_pt
+  Nome:                     Arroz de cenoura com azeite
+
+  Grupo:                    Cereais e Derivados
+
+  SubGrupo:                 Cereais
+
+  Parte Edível:             100%
+
+  Código:                   IS405
+
+  Código FoodEX2:           A041G
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                    Valor         Unidade   Fonte
+    Valor Energético
+        Energia                                            532           kJ        weighted
+        Energia                                            127           kcal      weighted
+    Macroconstituintes
+       Lípidos                                             4.2           g         weighted
+            Ácidos gordos saturados                        0.6           g         weighted
+            Ácidos gordos monoinsaturados                  3.2           g         weighted
+            Ácidos gordos polinsaturados                   0.3           g         weighted
+            Ácido linoleico                                0.286         g         weighted
+
+
+                                                          Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        19.9          g         weighted
+                Oligossacáridos                       0.1           g         weighted
+                Sacarose                              0.3           g         weighted
+                Lactose                               0             g         weighted
+                Amido                                 19            g         weighted
+           Sal                                        680           mg        weighted
+           Fibra alimentar                            1             g         weighted
+           Proteína                                   1.8           g         weighted
+           Álcool                                     0             g         weighted
+           Água                                       72.5          g         weighted
+           Ácidos orgânicos                           0             g         weighted
+           Colesterol                                 0             mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    143           µg        weighted
+        Caroteno                                      859           µg        weighted
+        Vitamina D                                    0             µg        weighted
+        a-tocoferol                                   0.7           mg        weighted
+        Tiamina                                       0.02          mg        weighted
+        Riboflavina                                   0.01          mg        weighted
+        Equivalentes de niacina                       1.06          mg        weighted
+        Niacina                                       0.54          mg        weighted
+        Vitamina B6                                   0.07          mg        weighted
+        Vitamina B12                                  0             µg        weighted
+        Vitamina C                                    0.8           mg        weighted
+        Folatos                                       6.9           µg        weighted
+    Minerais
+        Cinza                                         0.925         g         weighted
+        Sódio (Na)                                    270           mg        weighted
+        Potássio (K)                                  67            mg        weighted
+        Cálcio (Ca)                                   12            mg        weighted
+        Fósforo (P)                                   28            mg        weighted
+        Magnésio (Mg)                                 12            mg        weighted
+        Ferro (Fe)                                    0.3           mg        weighted
+        Zinco (Zn)                                    0.3           mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                 Version_p pt
+
+
+
+
+                            Page 3 of 3
+

@@ -1,0 +1,111 @@
+https://insa.foodcase.ch/                                                                  Version_p pt
+
+
+  Food_pt
+  Nome:                     Pão de mistura de trigo e centeio
+
+  Grupo:                    Cereais e Derivados
+
+  SubGrupo:                 Pão e produtos afins
+
+  Parte Edível:             100%
+
+  Código:                   IS430
+
+  Código FoodEX2:
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                     Valor         Unidade   Fonte
+    Valor Energético
+        Energia                                                 1150      kJ        weighted
+        Energia                                                 272       kcal      weighted
+    Macroconstituintes
+       Lípidos                                                  1.4       g         57
+            Ácidos gordos saturados                             0.3       g         weighted
+            Ácidos gordos monoinsaturados                       0.5       g         weighted
+            Ácidos gordos polinsaturados                        0.5       g         weighted
+            Ácido linoleico                                     0.5       g         weighted
+
+
+                                                           Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        53.8          g         weighted
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              0             g         weighted
+                Lactose                               0             g         weighted
+                Amido                                 51.8          g         weighted
+           Sal                                        1450          mg        weighted
+           Fibra alimentar                            4.3           g         weighted
+           Proteína                                   9             g         57
+           Álcool                                     0             g         weighted
+           Água                                       29.8          g         57
+           Ácidos orgânicos                           0             g         weighted
+           Colesterol                                 0             mg        57
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    0             µg        57
+        Caroteno                                      0             µg        57
+        Vitamina D                                    0             µg        57
+        a-tocoferol                                   0.24          mg        weighted
+        Tiamina                                       0.13          mg        57
+        Riboflavina                                   0.33          mg        57
+        Equivalentes de niacina                       5             mg        weighted
+        Niacina                                       3.2           mg        57
+        Vitamina B6                                   0.1           mg        weighted
+        Vitamina B12                                  0             µg        57
+        Vitamina C                                    0             mg        57
+        Folatos                                       33            µg        weighted
+    Minerais
+        Cinza                                         1.66          g         weighted
+        Sódio (Na)                                    580           mg        weighted
+        Potássio (K)                                  160           mg        weighted
+        Cálcio (Ca)                                   46            mg        57
+        Fósforo (P)                                   130           mg        57
+        Magnésio (Mg)                                 36            mg        weighted
+        Ferro (Fe)                                    1.6           mg        57
+        Zinco (Zn)                                    0.8           mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                                                                              Version_p pt
+
+
+  Id_pt           Reference_pt
+    57              PIABAD (1993) Programa do Instituto de Alimentação Becel para análise de dietas: programa
+                    profissional para computadores pessoais. Lisboa: IAB
+
+
+
+
+                                                      Page 3 of 3
+

@@ -1,0 +1,113 @@
+https://insa.foodcase.ch/                                                                      Version_p pt
+
+
+  Food_pt
+  Nome:                     Compota de ananás
+
+  Grupo:                    Açúcar, Produtos Açucarados e Mel
+
+  SubGrupo:                 Produtos açucarados (compotas, doces e outros)
+
+  Parte Edível:             100%
+
+  Código:                   IS634
+
+  Código FoodEX2:
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                   Valor               Unidade   Fonte
+    Valor Energético
+        Energia                                            895                kJ        weighted
+        Energia                                            211                kcal      weighted
+    Macroconstituintes
+       Lípidos                                             0.1                g         weighted
+            Ácidos gordos saturados                        0                  g         weighted
+            Ácidos gordos monoinsaturados                  0.1                g         weighted
+            Ácidos gordos polinsaturados                   0                  g         weighted
+            Ácido linoleico                                0                  g         weighted
+
+
+                                                         Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        50.8          g         57
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              0.1           g         weighted
+                Lactose                               0             g         weighted
+                Amido                                 0             g         weighted
+           Sal                                        30            mg        weighted
+           Fibra alimentar                            0.8           g         58
+           Proteína                                   0.5           g         57
+           Álcool                                     0             g         weighted
+           Água                                       46.8          g         weighted
+           Ácidos orgânicos                           1             g         58
+           Colesterol                                 0             mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    2             µg        weighted
+        Caroteno                                      11            µg        weighted
+        Vitamina D                                    0             µg        weighted
+        a-tocoferol                                   0.06          mg        weighted
+        Tiamina                                       0.05          mg        57
+        Riboflavina                                   0.02          mg        57
+        Equivalentes de niacina                       0.3           mg        weighted
+        Niacina                                       0.2           mg        weighted
+        Vitamina B6                                   0.07          mg        weighted
+        Vitamina B12                                  0             µg        weighted
+        Vitamina C                                    0             mg        weighted
+        Folatos                                       1             µg        weighted
+    Minerais
+        Cinza                                         0.49          g         weighted
+        Sódio (Na)                                    12            mg        weighted
+        Potássio (K)                                  86            mg        weighted
+        Cálcio (Ca)                                   12            mg        57
+        Fósforo (P)                                   7             mg        57
+        Magnésio (Mg)                                 8             mg        weighted
+        Ferro (Fe)                                    1.6           mg        weighted
+        Zinco (Zn)                                    0             mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                                                                             Version_p pt
+
+
+  Id_pt           Reference_pt
+    57              PIABAD (1993) Programa do Instituto de Alimentação Becel para análise de dietas: programa
+                    profissional para computadores pessoais. Lisboa: IAB
+    58              Gonçalves Ferreira, FA; Silva Graça, ME (1985) - Tabela de Composição dos Alimentos Portugueses.
+                    Reimpressão da 2ª Edição de 1963. Instituto Nacional de Saúde Dr. Ricardo Jorge, Lisboa.
+
+
+
+
+                                                      Page 3 of 3
+

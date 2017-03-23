@@ -1,0 +1,112 @@
+https://insa.foodcase.ch/                                                                          Version_p pt
+
+
+  Food_pt
+  Nome:                     Peixe-espada-preto frito
+
+  Grupo:                    Pescado (Peixe, Moluscos e Crustáceos) e Derivados
+
+  SubGrupo:                 Peixe
+
+  Parte Edível:             100%
+
+  Código:                   IS861
+
+  Código FoodEX2:
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                   Valor                   Unidade   Fonte
+    Valor Energético
+        Energia                                            1080                   kJ        weighted
+        Energia                                            259                    kcal      weighted
+    Macroconstituintes
+       Lípidos                                             16.6                   g         77
+            Ácidos gordos saturados                        1.8                    g         77
+            Ácidos gordos monoinsaturados                  4.9                    g         77
+            Ácidos gordos polinsaturados                   8.6                    g         77
+            Ácido linoleico                                8.1                    g         weighted
+
+
+                                                         Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        3.2           g         weighted
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              0             g         weighted
+                Lactose                               0             g         weighted
+                Amido                                 3.1           g         weighted
+           Sal                                        1100          mg        weighted
+           Fibra alimentar                            0.1           g         weighted
+           Proteína                                   24.2          g         77
+           Álcool                                     0             g         weighted
+           Água                                       52.8          g         77
+           Ácidos orgânicos                           0             g         weighted
+           Colesterol                                 36            mg        77
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    27            µg        weighted
+        Caroteno                                      0             µg        weighted
+        Vitamina D                                    2.6           µg        weighted
+        a-tocoferol                                   7.1           mg        weighted
+        Tiamina                                       0.01          mg        weighted
+        Riboflavina                                   0.05          mg        weighted
+        Equivalentes de niacina                       6.8           mg        weighted
+        Niacina                                       2.3           mg        weighted
+        Vitamina B6                                   0.16          mg        weighted
+        Vitamina B12                                  2.3           µg        weighted
+        Vitamina C                                    0             mg        weighted
+        Folatos                                       11            µg        weighted
+    Minerais
+        Cinza                                         2.60          g         77
+        Sódio (Na)                                    440           mg        weighted
+        Potássio (K)                                  430           mg        weighted
+        Cálcio (Ca)                                   22            mg        weighted
+        Fósforo (P)                                   250           mg        weighted
+        Magnésio (Mg)                                 40            mg        weighted
+        Ferro (Fe)                                    0.2           mg        weighted
+        Zinco (Zn)                                    0.8           mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                                                                                 Version_p pt
+
+
+  Id_pt           Reference_pt
+    77              Bandarra, NM; Calhau, MA; Oliveira, L; Ramos, M; Dias, MG; Bártolo, H; Faria, MR; Fonseca; MC;
+                    Gonçalves, J; Batista, I; Nunes, ML. (2005) Composição e valor nutricional dos produtos da pesca mais
+                    consumidos em Portugal. INIAP/IPIMAR, INSA, FCT.
+
+
+
+
+                                                       Page 3 of 3
+

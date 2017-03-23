@@ -1,0 +1,106 @@
+https://insa.foodcase.ch/                                                                           Version_p pt
+
+
+  Food_pt
+  Nome:                     Peito de vitela magro estufado com margarina e óleo alimentar
+
+  Grupo:                    Carne e Derivados, Criação e Caça
+
+  SubGrupo:                 Carne
+
+  Parte Edível:             100%
+
+  Código:                   IS227
+
+  Código FoodEX2:
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                    Valor                 Unidade     Fonte
+    Valor Energético
+        Energia                                             867                   kJ         weighted
+        Energia                                             208                   kcal       weighted
+    Macroconstituintes
+       Lípidos                                              12.6                  g          weighted
+            Ácidos gordos saturados                         4.7                   g          weighted
+            Ácidos gordos monoinsaturados                   5                     g          weighted
+            Ácidos gordos polinsaturados                    2.2                   g          weighted
+            Ácido linoleico                                 1.97                  g          weighted
+
+
+                                                          Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        0.6           g         weighted
+                Oligossacáridos                       0.1           g         weighted
+                Sacarose                              0.1           g         weighted
+                Lactose                               0             g         weighted
+                Amido                                 0.1           g         weighted
+           Sal                                        900           mg        weighted
+           Fibra alimentar                            0.2           g         weighted
+           Proteína                                   22.9          g         weighted
+           Álcool                                     0             g         weighted
+           Água                                       60.6          g         weighted
+           Ácidos orgânicos                           0             g         weighted
+           Colesterol                                 106           mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    15            µg        weighted
+        Caroteno                                      37            µg        weighted
+        Vitamina D                                    0             µg        weighted
+        a-tocoferol                                   1.71          mg        weighted
+        Tiamina                                       0.17          mg        weighted
+        Riboflavina                                   0.21          mg        weighted
+        Equivalentes de niacina                       12.9          mg        weighted
+        Niacina                                       4.2           mg        weighted
+        Vitamina B6                                   0.21          mg        weighted
+        Vitamina B12                                  0.84          µg        weighted
+        Vitamina C                                    1.6           mg        weighted
+        Folatos                                       6.3           µg        weighted
+    Minerais
+        Cinza                                         3.05          g         weighted
+        Sódio (Na)                                    360           mg        weighted
+        Potássio (K)                                  290           mg        weighted
+        Cálcio (Ca)                                   14            mg        weighted
+        Fósforo (P)                                   200           mg        weighted
+        Magnésio (Mg)                                 20            mg        weighted
+        Ferro (Fe)                                    1.4           mg        weighted
+        Zinco (Zn)                                    3.6           mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                 Version_p pt
+
+
+
+
+                            Page 3 of 3
+

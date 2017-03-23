@@ -1,0 +1,106 @@
+https://insa.foodcase.ch/                                                                    Version_p pt
+
+
+  Food_pt
+  Nome:                     Tarte de maçã e pêssego
+
+  Grupo:                    Cereais e Derivados
+
+  SubGrupo:                 Bolos e produtos de pastelaria
+
+  Parte Edível:             100%
+
+  Código:                   IS497
+
+  Código FoodEX2:
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                       Valor         Unidade   Fonte
+    Valor Energético
+        Energia                                               945           kJ        weighted
+        Energia                                               224           kcal      weighted
+    Macroconstituintes
+       Lípidos                                                6.2           g         weighted
+            Ácidos gordos saturados                           2.4           g         weighted
+            Ácidos gordos monoinsaturados                     2.1           g         weighted
+            Ácidos gordos polinsaturados                      0.8           g         weighted
+            Ácido linoleico                                   0.688         g         weighted
+
+
+                                                             Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        36.7          g         weighted
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              15.6          g         weighted
+                Lactose                               1.7           g         weighted
+                Amido                                 15            g         weighted
+           Sal                                        140           mg        weighted
+           Fibra alimentar                            1.9           g         weighted
+           Proteína                                   4.4           g         weighted
+           Álcool                                     0             g         weighted
+           Água                                       49.7          g         weighted
+           Ácidos orgânicos                           0.1           g         weighted
+           Colesterol                                 46            mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    49            µg        weighted
+        Caroteno                                      60            µg        weighted
+        Vitamina D                                    0.2           µg        weighted
+        a-tocoferol                                   1.14          mg        weighted
+        Tiamina                                       0.06          mg        weighted
+        Riboflavina                                   0.14          mg        weighted
+        Equivalentes de niacina                       1.49          mg        weighted
+        Niacina                                       0.5           mg        weighted
+        Vitamina B6                                   0.09          mg        weighted
+        Vitamina B12                                  0.12          µg        weighted
+        Vitamina C                                    2.5           mg        weighted
+        Folatos                                       13            µg        weighted
+    Minerais
+        Cinza                                         0.817         g         weighted
+        Sódio (Na)                                    54            mg        weighted
+        Potássio (K)                                  180           mg        weighted
+        Cálcio (Ca)                                   58            mg        weighted
+        Fósforo (P)                                   87            mg        weighted
+        Magnésio (Mg)                                 21            mg        weighted
+        Ferro (Fe)                                    0.7           mg        weighted
+        Zinco (Zn)                                    0.5           mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                 Version_p pt
+
+
+
+
+                            Page 3 of 3
+

@@ -1,0 +1,111 @@
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Food_pt
+  Nome:                     Pão do coração (trigo)
+
+  Grupo:                    Cereais e Derivados
+
+  SubGrupo:                 Pão e produtos afins
+
+  Parte Edível:             100%
+
+  Código:                   IS437
+
+  Código FoodEX2:
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                               Valor         Unidade   Fonte
+    Valor Energético
+        Energia                                       1050          kJ        weighted
+        Energia                                       248           kcal      weighted
+    Macroconstituintes
+       Lípidos                                        1.2           g         57
+            Ácidos gordos saturados                   0.3           g         weighted
+            Ácidos gordos monoinsaturados             0.2           g         weighted
+            Ácidos gordos polinsaturados              0.5           g         weighted
+            Ácido linoleico                           0.4           g         weighted
+
+
+                                                     Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        51            g         weighted
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              0             g         weighted
+                Lactose                               0             g         weighted
+                Amido                                 49.1          g         weighted
+           Sal                                        200           mg        weighted
+           Fibra alimentar                            2.8           g         weighted
+           Proteína                                   7             g         57
+           Álcool                                     0             g         weighted
+           Água                                       36.9          g         57
+           Ácidos orgânicos                           0             g         weighted
+           Colesterol                                 0             mg        57
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    0             µg        57
+        Caroteno                                      0             µg        57
+        Vitamina D                                    0             µg        weighted
+        a-tocoferol                                   0             mg        weighted
+        Tiamina                                       0.36          mg        57
+        Riboflavina                                   0.15          mg        57
+        Equivalentes de niacina                       3.9           mg        weighted
+        Niacina                                       2.5           mg        57
+        Vitamina B6                                   0.06          mg        weighted
+        Vitamina B12                                  0             µg        57
+        Vitamina C                                    0             mg        57
+        Folatos                                       24            µg        weighted
+    Minerais
+        Cinza                                         1.09          g         weighted
+        Sódio (Na)                                    80            mg        57
+        Potássio (K)                                  170           mg        weighted
+        Cálcio (Ca)                                   23            mg        57
+        Fósforo (P)                                   91            mg        57
+        Magnésio (Mg)                                 52            mg        weighted
+        Ferro (Fe)                                    1.6           mg        57
+        Zinco (Zn)                                    1.1           mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                                                                              Version_p pt
+
+
+  Id_pt           Reference_pt
+    57              PIABAD (1993) Programa do Instituto de Alimentação Becel para análise de dietas: programa
+                    profissional para computadores pessoais. Lisboa: IAB
+
+
+
+
+                                                      Page 3 of 3
+

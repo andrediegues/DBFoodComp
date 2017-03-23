@@ -1,0 +1,111 @@
+https://insa.foodcase.ch/                                                                Version_p pt
+
+
+  Food_pt
+  Nome:                     Coelho cru
+
+  Grupo:                    Carne e Derivados, Criação e Caça
+
+  SubGrupo:                 Criação e caça
+
+  Parte Edível:             65%
+
+  Código:                   IS274
+
+  Código FoodEX2:           A01RQ
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                   Valor         Unidade   Fonte
+    Valor Energético
+        Energia                                            493          kJ        weighted
+        Energia                                            117          kcal      weighted
+    Macroconstituintes
+       Lípidos                                             4            g         57
+            Ácidos gordos saturados                        1.3          g         weighted
+            Ácidos gordos monoinsaturados                  0.9          g         weighted
+            Ácidos gordos polinsaturados                   0.7          g         weighted
+            Ácido linoleico                                0.6          g         weighted
+
+
+                                                         Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        0             g         weighted
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              0             g         weighted
+                Lactose                               0             g         weighted
+                Amido                                 0             g         weighted
+           Sal                                        140           mg        weighted
+           Fibra alimentar                            0             g         weighted
+           Proteína                                   20.3          g         57
+           Álcool                                     0             g         weighted
+           Água                                       74.4          g         weighted
+           Ácidos orgânicos                           0             g         weighted
+           Colesterol                                 48            mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    0             µg        weighted
+        Caroteno                                      0             µg        57
+        Vitamina D                                    0.5           µg        weighted
+        a-tocoferol                                   0.13          mg        weighted
+        Tiamina                                       0.1           mg        weighted
+        Riboflavina                                   0.16          mg        57
+        Equivalentes de niacina                       7.8           mg        weighted
+        Niacina                                       4             mg        57
+        Vitamina B6                                   0.5           mg        57
+        Vitamina B12                                  9             µg        weighted
+        Vitamina C                                    0             mg        weighted
+        Folatos                                       5             µg        57
+    Minerais
+        Cinza                                         1.30          g         weighted
+        Sódio (Na)                                    58            mg        57
+        Potássio (K)                                  380           mg        57
+        Cálcio (Ca)                                   17            mg        57
+        Fósforo (P)                                   220           mg        57
+        Magnésio (Mg)                                 20            mg        57
+        Ferro (Fe)                                    1             mg        weighted
+        Zinco (Zn)                                    1.5           mg        57
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                                                                              Version_p pt
+
+
+  Id_pt           Reference_pt
+    57              PIABAD (1993) Programa do Instituto de Alimentação Becel para análise de dietas: programa
+                    profissional para computadores pessoais. Lisboa: IAB
+
+
+
+
+                                                      Page 3 of 3
+

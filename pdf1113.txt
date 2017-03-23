@@ -1,0 +1,106 @@
+https://insa.foodcase.ch/                                                              Version_p pt
+
+
+  Food_pt
+  Nome:                     Coelho em vinha de alhos
+
+  Grupo:
+
+  SubGrupo:
+
+  Parte Edível:             100%
+
+  Código:                   193-119
+
+  Código FoodEX2:
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                 Valor         Unidade   Fonte
+    Valor Energético
+        Energia                                         722           kJ        weighted
+        Energia                                         174           kcal      weighted
+    Macroconstituintes
+       Lípidos                                          11.6          g         weighted
+            Ácidos gordos saturados                     1.8           g         weighted
+            Ácidos gordos monoinsaturados               2.4           g         weighted
+            Ácidos gordos polinsaturados                6.5           g         weighted
+            Ácido linoleico                             6.41          g         weighted
+
+
+                                                       Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        1.4           g         weighted
+                Oligossacáridos                       0.3           g         weighted
+                Sacarose                              0.2           g         weighted
+                Lactose                               0             g         weighted
+                Amido                                 0.1           g         weighted
+           Sal                                        98            mg        weighted
+           Fibra alimentar                            0.5           g         weighted
+           Proteína                                   11.3          g         weighted
+           Álcool                                     2.5           g         weighted
+           Água                                       71.6          g         weighted
+           Ácidos orgânicos                           0             g         weighted
+           Colesterol                                 26            mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    46            µg        weighted
+        Caroteno                                      274           µg        weighted
+        Vitamina D                                    0.3           µg        weighted
+        a-tocoferol                                   6.08          mg        weighted
+        Tiamina                                       0.1           mg        weighted
+        Riboflavina                                   0.1           mg        weighted
+        Equivalentes de niacina                       4.55          mg        weighted
+        Niacina                                       2.5           mg        weighted
+        Vitamina B6                                   0.35          mg        weighted
+        Vitamina B12                                  4.8           µg        weighted
+        Vitamina C                                    4.4           mg        weighted
+        Folatos                                       9.1           µg        weighted
+    Minerais
+        Cinza                                         1.08          g         weighted
+        Sódio (Na)                                    40            mg        weighted
+        Potássio (K)                                  340           mg        weighted
+        Cálcio (Ca)                                   24            mg        weighted
+        Fósforo (P)                                   130           mg        weighted
+        Magnésio (Mg)                                 18            mg        weighted
+        Ferro (Fe)                                    1             mg        weighted
+        Zinco (Zn)                                    1             mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                 Version_p pt
+
+
+
+
+                            Page 3 of 3
+

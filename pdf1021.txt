@@ -1,0 +1,106 @@
+https://insa.foodcase.ch/                                                       Version_p pt
+
+
+  Food_pt
+  Nome:                     Arroz de bacalhau
+
+  Grupo:
+
+  SubGrupo:
+
+  Parte Edível:             100%
+
+  Código:                   072-25
+
+  Código FoodEX2:
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                          Valor         Unidade   Fonte
+    Valor Energético
+        Energia                                  379           kJ        weighted
+        Energia                                  90            kcal      weighted
+    Macroconstituintes
+       Lípidos                                   1.6           g         weighted
+            Ácidos gordos saturados              0.2           g         weighted
+            Ácidos gordos monoinsaturados        1.2           g         weighted
+            Ácidos gordos polinsaturados         0.2           g         weighted
+            Ácido linoleico                      0.196         g         weighted
+
+
+                                                Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        15.3          g         weighted
+                Oligossacáridos                       0.1           g         weighted
+                Sacarose                              0.1           g         weighted
+                Lactose                               0             g         weighted
+                Amido                                 13.9          g         weighted
+           Sal                                        430           mg        weighted
+           Fibra alimentar                            0.9           g         weighted
+           Proteína                                   3.1           g         weighted
+           Álcool                                     0             g         weighted
+           Água                                       78.4          g         weighted
+           Ácidos orgânicos                           0             g         weighted
+           Colesterol                                 4             mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    28            µg        weighted
+        Caroteno                                      163           µg        weighted
+        Vitamina D                                    0.3           µg        weighted
+        a-tocoferol                                   0.65          mg        weighted
+        Tiamina                                       0.05          mg        weighted
+        Riboflavina                                   0.02          mg        weighted
+        Equivalentes de niacina                       1.25          mg        weighted
+        Niacina                                       0.66          mg        weighted
+        Vitamina B6                                   0.12          mg        weighted
+        Vitamina B12                                  0.07          µg        weighted
+        Vitamina C                                    7.2           mg        weighted
+        Folatos                                       11            µg        weighted
+    Minerais
+        Cinza                                         0.812         g         weighted
+        Sódio (Na)                                    170           mg        weighted
+        Potássio (K)                                  120           mg        weighted
+        Cálcio (Ca)                                   11            mg        weighted
+        Fósforo (P)                                   34            mg        weighted
+        Magnésio (Mg)                                 9.2           mg        weighted
+        Ferro (Fe)                                    0.4           mg        weighted
+        Zinco (Zn)                                    0.4           mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                 Version_p pt
+
+
+
+
+                            Page 3 of 3
+

@@ -1,0 +1,106 @@
+https://insa.foodcase.ch/                                                                   Version_p pt
+
+
+  Food_pt
+  Nome:                     Molho de carne de vaca assada com margarina
+
+  Grupo:                    Sopas, Molhos e Diversos
+
+  SubGrupo:                 Molhos
+
+  Parte Edível:             100%
+
+  Código:                   IS941
+
+  Código FoodEX2:
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                  Valor             Unidade   Fonte
+    Valor Energético
+        Energia                                           2110             kJ        weighted
+        Energia                                           513              kcal      weighted
+    Macroconstituintes
+       Lípidos                                            56               g         weighted
+            Ácidos gordos saturados                       28               g         weighted
+            Ácidos gordos monoinsaturados                 12.3             g         weighted
+            Ácidos gordos polinsaturados                  15.4             g         weighted
+            Ácido linoleico                               13.8             g         weighted
+
+
+                                                        Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        0.4           g         weighted
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              0             g         weighted
+                Lactose                               0.3           g         weighted
+                Amido                                 0             g         weighted
+           Sal                                        1900          mg        weighted
+           Fibra alimentar                            0.1           g         weighted
+           Proteína                                   1.9           g         weighted
+           Álcool                                     0             g         weighted
+           Água                                       40            g         weighted
+           Ácidos orgânicos                           0             g         weighted
+           Colesterol                                 8             mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    336           µg        weighted
+        Caroteno                                      224           µg        weighted
+        Vitamina D                                    0.1           µg        weighted
+        a-tocoferol                                   0             mg        weighted
+        Tiamina                                       0.02          mg        weighted
+        Riboflavina                                   0.02          mg        weighted
+        Equivalentes de niacina                       0.7           mg        weighted
+        Niacina                                       0.3           mg        weighted
+        Vitamina B6                                   0.03          mg        weighted
+        Vitamina B12                                  0.1           µg        weighted
+        Vitamina C                                    0             mg        weighted
+        Folatos                                       2.4           µg        weighted
+    Minerais
+        Cinza                                         2.00          g         weighted
+        Sódio (Na)                                    760           mg        weighted
+        Potássio (K)                                  49            mg        weighted
+        Cálcio (Ca)                                   6             mg        weighted
+        Fósforo (P)                                   27            mg        weighted
+        Magnésio (Mg)                                 4             mg        weighted
+        Ferro (Fe)                                    0.4           mg        weighted
+        Zinco (Zn)                                    0.4           mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                 Version_p pt
+
+
+
+
+                            Page 3 of 3
+

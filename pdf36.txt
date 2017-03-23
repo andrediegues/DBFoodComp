@@ -1,0 +1,111 @@
+https://insa.foodcase.ch/                                                                 Version_p pt
+
+
+  Food_pt
+  Nome:                     Queijo flamengo 45% gordura
+
+  Grupo:                    Leites e Produtos Lácteos
+
+  SubGrupo:                 Queijo
+
+  Parte Edível:             85%
+
+  Código:                   IS050
+
+  Código FoodEX2:           A02ST$PTIS050
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                    Valor         Unidade   Fonte
+    Valor Energético
+        Energia                                            1320          kJ        weighted
+        Energia                                            316           kcal      weighted
+    Macroconstituintes
+       Lípidos                                             23.4          g         57
+            Ácidos gordos saturados                        12.6          g         weighted
+            Ácidos gordos monoinsaturados                  6             g         weighted
+            Ácidos gordos polinsaturados                   0.9           g         weighted
+            Ácido linoleico                                0.7           g         weighted
+
+
+                                                          Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        0.2           g         57
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              0             g         weighted
+                Lactose                               0.2           g         weighted
+                Amido                                 0             g         weighted
+           Sal                                        2120          mg        weighted
+           Fibra alimentar                            0             g         weighted
+           Proteína                                   26            g         57
+           Álcool                                     0             g         weighted
+           Água                                       45.3          g         57
+           Ácidos orgânicos                           0.3           g         weighted
+           Colesterol                                 69            mg        57
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    268           µg        weighted
+        Caroteno                                      201           µg        weighted
+        Vitamina D                                    0.2           µg        weighted
+        a-tocoferol                                   0.44          mg        weighted
+        Tiamina                                       0.04          mg        weighted
+        Riboflavina                                   0.4           mg        weighted
+        Equivalentes de niacina                       6.5           mg        weighted
+        Niacina                                       0.4           mg        weighted
+        Vitamina B6                                   0.09          mg        weighted
+        Vitamina B12                                  2             µg        weighted
+        Vitamina C                                    0             mg        weighted
+        Folatos                                       39            µg        weighted
+    Minerais
+        Cinza                                         4.82          g         weighted
+        Sódio (Na)                                    850           mg        57
+        Potássio (K)                                  100           mg        57
+        Cálcio (Ca)                                   800           mg        57
+        Fósforo (P)                                   510           mg        57
+        Magnésio (Mg)                                 40            mg        57
+        Ferro (Fe)                                    0.8           mg        57
+        Zinco (Zn)                                    5.3           mg        57
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                                                                              Version_p pt
+
+
+  Id_pt           Reference_pt
+    57              PIABAD (1993) Programa do Instituto de Alimentação Becel para análise de dietas: programa
+                    profissional para computadores pessoais. Lisboa: IAB
+
+
+
+
+                                                      Page 3 of 3
+

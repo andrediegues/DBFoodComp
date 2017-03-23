@@ -1,0 +1,106 @@
+https://insa.foodcase.ch/                                                                             Version_p pt
+
+
+  Food_pt
+  Nome:                     Farinha láctea 5 frutos tipo "Cerelac" (com farinha de trigo)
+
+  Grupo:                    Cereais e Derivados
+
+  SubGrupo:                 Cereais de pequeno almoço e farinhas especiais
+
+  Parte Edível:             100%
+
+  Código:                   IS945
+
+  Código FoodEX2:
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                      Valor                   Unidade   Fonte
+    Valor Energético
+        Energia                                                1720                   kJ       weighted
+        Energia                                                408                    kcal     weighted
+    Macroconstituintes
+       Lípidos                                                 9                      g        weighted
+            Ácidos gordos saturados                            4.1                    g        weighted
+            Ácidos gordos monoinsaturados                      2.1                    g        weighted
+            Ácidos gordos polinsaturados                       2.1                    g        weighted
+            Ácido linoleico                                    2.1                    g        weighted
+
+
+                                                             Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        65            g         weighted
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              17.9          g         weighted
+                Lactose                               15.9          g         weighted
+                Amido                                 24.7          g         weighted
+           Sal                                        250           mg        weighted
+           Fibra alimentar                            3.6           g         weighted
+           Proteína                                   15            g         weighted
+           Álcool                                     0             g         weighted
+           Água                                       4.6           g         weighted
+           Ácidos orgânicos                           0             g         weighted
+           Colesterol                                 7             mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    309           µg        weighted
+        Caroteno                                      0             µg        weighted
+        Vitamina D                                    5             µg        weighted
+        a-tocoferol                                   3             mg        weighted
+        Tiamina                                       0.8           mg        weighted
+        Riboflavina                                   0.3           mg        weighted
+        Equivalentes de niacina                       6             mg        weighted
+        Niacina                                       4             mg        weighted
+        Vitamina B6                                   0.3           mg        weighted
+        Vitamina B12                                  0.7           µg        weighted
+        Vitamina C                                    35            mg        weighted
+        Folatos                                       22            µg        weighted
+    Minerais
+        Cinza                                         2.80          g         weighted
+        Sódio (Na)                                    100           mg        weighted
+        Potássio (K)                                  600           mg        weighted
+        Cálcio (Ca)                                   420           mg        weighted
+        Fósforo (P)                                   340           mg        weighted
+        Magnésio (Mg)                                 52            mg        weighted
+        Ferro (Fe)                                    7.5           mg        weighted
+        Zinco (Zn)                                    2             mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                 Version_p pt
+
+
+
+
+                            Page 3 of 3
+

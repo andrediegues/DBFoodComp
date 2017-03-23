@@ -1,0 +1,111 @@
+https://insa.foodcase.ch/                                                                Version_p pt
+
+
+  Food_pt
+  Nome:                     Ameixa seca
+
+  Grupo:                    Frutos e Derivados
+
+  SubGrupo:                 Frutos frescos e derivados
+
+  Parte Edível:             82%
+
+  Código:                   IS631
+
+  Código FoodEX2:
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                   Valor         Unidade   Fonte
+    Valor Energético
+        Energia                                           834           kJ        weighted
+        Energia                                           198           kcal      weighted
+    Macroconstituintes
+       Lípidos                                            0.3           g         weighted
+            Ácidos gordos saturados                       0             g         weighted
+            Ácidos gordos monoinsaturados                 0.2           g         weighted
+            Ácidos gordos polinsaturados                  0.1           g         weighted
+            Ácido linoleico                               0             g         weighted
+
+
+                                                         Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        37.8          g         57
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              0.6           g         weighted
+                Lactose                               0             g         weighted
+                Amido                                 0             g         weighted
+           Sal                                        30            mg        weighted
+           Fibra alimentar                            15.6          g         57
+           Proteína                                   2.9           g         57
+           Álcool                                     0             g         weighted
+           Água                                       40            g         weighted
+           Ácidos orgânicos                           0.5           g         weighted
+           Colesterol                                 0             mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    119           µg        57
+        Caroteno                                      715           µg        57
+        Vitamina D                                    0             µg        weighted
+        a-tocoferol                                   2.3           mg        weighted
+        Tiamina                                       0.04          mg        57
+        Riboflavina                                   0.08          mg        57
+        Equivalentes de niacina                       1.2           mg        weighted
+        Niacina                                       1             mg        weighted
+        Vitamina B6                                   0.13          mg        weighted
+        Vitamina B12                                  0             µg        weighted
+        Vitamina C                                    1             mg        57
+        Folatos                                       4             µg        weighted
+    Minerais
+        Cinza                                         2.10          g         weighted
+        Sódio (Na)                                    12            mg        57
+        Potássio (K)                                  830           mg        57
+        Cálcio (Ca)                                   38            mg        57
+        Fósforo (P)                                   68            mg        57
+        Magnésio (Mg)                                 26            mg        57
+        Ferro (Fe)                                    3             mg        weighted
+        Zinco (Zn)                                    0.6           mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                                                                              Version_p pt
+
+
+  Id_pt           Reference_pt
+    57              PIABAD (1993) Programa do Instituto de Alimentação Becel para análise de dietas: programa
+                    profissional para computadores pessoais. Lisboa: IAB
+
+
+
+
+                                                      Page 3 of 3
+

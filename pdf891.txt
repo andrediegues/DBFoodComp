@@ -1,0 +1,106 @@
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Food_pt
+  Nome:                     Néctar de ananás
+
+  Grupo:                    Bebidas
+
+  SubGrupo:                 Bebidas não alcoólicas
+
+  Parte Edível:             100%
+
+  Código:                   IS749
+
+  Código FoodEX2:           A03BK
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                               Valor         Unidade   Fonte
+    Valor Energético
+        Energia                                       195           kJ        weighted
+        Energia                                       46            kcal      weighted
+    Macroconstituintes
+       Lípidos                                        0.1           g         weighted
+            Ácidos gordos saturados                   0             g         weighted
+            Ácidos gordos monoinsaturados             0             g         weighted
+            Ácidos gordos polinsaturados              0.1           g         weighted
+            Ácido linoleico                           0.1           g         weighted
+
+
+                                                     Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        10.5          g         weighted
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              6             g         weighted
+                Lactose                               0             g         weighted
+                Amido                                 0             g         weighted
+           Sal                                        10            mg        weighted
+           Fibra alimentar                            0.2           g         weighted
+           Proteína                                   0.2           g         weighted
+           Álcool                                     0             g         weighted
+           Água                                       88.2          g         weighted
+           Ácidos orgânicos                           0.6           g         weighted
+           Colesterol                                 0             mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    2             µg        weighted
+        Caroteno                                      10            µg        weighted
+        Vitamina D                                    0             µg        weighted
+        a-tocoferol                                   0.03          mg        weighted
+        Tiamina                                       0.05          mg        weighted
+        Riboflavina                                   0.02          mg        weighted
+        Equivalentes de niacina                       0.2           mg        weighted
+        Niacina                                       0.2           mg        weighted
+        Vitamina B6                                   0.1           mg        weighted
+        Vitamina B12                                  0             µg        weighted
+        Vitamina C                                    43            mg        weighted
+        Folatos                                       10            µg        weighted
+    Minerais
+        Cinza                                         0.12          g         weighted
+        Sódio (Na)                                    4             mg        weighted
+        Potássio (K)                                  58            mg        weighted
+        Cálcio (Ca)                                   5             mg        weighted
+        Fósforo (P)                                   3             mg        weighted
+        Magnésio (Mg)                                 4             mg        weighted
+        Ferro (Fe)                                    0.6           mg        weighted
+        Zinco (Zn)                                    0.1           mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                 Version_p pt
+
+
+
+
+                            Page 3 of 3
+

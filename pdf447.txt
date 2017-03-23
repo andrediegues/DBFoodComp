@@ -1,0 +1,106 @@
+https://insa.foodcase.ch/                                                                          Version_p pt
+
+
+  Food_pt
+  Nome:                     Sardinha meio gorda frita
+
+  Grupo:                    Pescado (Peixe, Moluscos e Crustáceos) e Derivados
+
+  SubGrupo:                 Peixe
+
+  Parte Edível:             100%
+
+  Código:                   IS887
+
+  Código FoodEX2:
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                   Valor                   Unidade   Fonte
+    Valor Energético
+        Energia                                            726                    kJ        weighted
+        Energia                                            174                    kcal      weighted
+    Macroconstituintes
+       Lípidos                                             10.2                   g         weighted
+            Ácidos gordos saturados                        2.3                    g         weighted
+            Ácidos gordos monoinsaturados                  2.3                    g         weighted
+            Ácidos gordos polinsaturados                   4.4                    g         weighted
+            Ácido linoleico                                1.7                    g         weighted
+
+
+                                                         Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        0.5           g         weighted
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              0             g         weighted
+                Lactose                               0             g         weighted
+                Amido                                 0.5           g         weighted
+           Sal                                        780           mg        weighted
+           Fibra alimentar                            0             g         weighted
+           Proteína                                   20            g         weighted
+           Álcool                                     0             g         weighted
+           Água                                       66.8          g         weighted
+           Ácidos orgânicos                           0             g         weighted
+           Colesterol                                 29            mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    11            µg        weighted
+        Caroteno                                      0             µg        weighted
+        Vitamina D                                    16            µg        weighted
+        a-tocoferol                                   2.1           mg        weighted
+        Tiamina                                       0.01          mg        weighted
+        Riboflavina                                   0.13          mg        weighted
+        Equivalentes de niacina                       9.5           mg        weighted
+        Niacina                                       5.8           mg        weighted
+        Vitamina B6                                   0.34          mg        weighted
+        Vitamina B12                                  9.4           µg        weighted
+        Vitamina C                                    0             mg        weighted
+        Folatos                                       20            µg        weighted
+    Minerais
+        Cinza                                         2.50          g         weighted
+        Sódio (Na)                                    310           mg        weighted
+        Potássio (K)                                  420           mg        weighted
+        Cálcio (Ca)                                   73            mg        weighted
+        Fósforo (P)                                   280           mg        weighted
+        Magnésio (Mg)                                 28            mg        weighted
+        Ferro (Fe)                                    1.5           mg        weighted
+        Zinco (Zn)                                    1.8           mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                 Version_p pt
+
+
+
+
+                            Page 3 of 3
+

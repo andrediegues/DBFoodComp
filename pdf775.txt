@@ -1,0 +1,111 @@
+https://insa.foodcase.ch/                                                               Version_p pt
+
+
+  Food_pt
+  Nome:                     Pinhão, miolo
+
+  Grupo:                    Frutos e Derivados
+
+  SubGrupo:                 Frutos gordos e amiláceos
+
+  Parte Edível:             100%
+
+  Código:                   IS709
+
+  Código FoodEX2:
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                  Valor         Unidade   Fonte
+    Valor Energético
+        Energia                                          2580          kJ        weighted
+        Energia                                          622           kcal      weighted
+    Macroconstituintes
+       Lípidos                                           51.7          g         57
+            Ácidos gordos saturados                      3.5           g         weighted
+            Ácidos gordos monoinsaturados                15            g         weighted
+            Ácidos gordos polinsaturados                 31            g         weighted
+            Ácido linoleico                              30.0          g         weighted
+
+
+                                                        Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        5             g         weighted
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              2.4           g         weighted
+                Lactose                               0             g         weighted
+                Amido                                 2.6           g         57
+           Sal                                        2.5           mg        weighted
+           Fibra alimentar                            1.9           g         weighted
+           Proteína                                   33.2          g         57
+           Álcool                                     0             g         57
+           Água                                       4.3           g         weighted
+           Ácidos orgânicos                           0             g         weighted
+           Colesterol                                 0             mg        57
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    0             µg        57
+        Caroteno                                      0             µg        57
+        Vitamina D                                    0             µg        57
+        a-tocoferol                                   10            mg        weighted
+        Tiamina                                       0.39          mg        57
+        Riboflavina                                   0.22          mg        weighted
+        Equivalentes de niacina                       8.9           mg        weighted
+        Niacina                                       2.7           mg        57
+        Vitamina B6                                   0.11          mg        weighted
+        Vitamina B12                                  0             µg        57
+        Vitamina C                                    0             mg        weighted
+        Folatos                                       57            µg        weighted
+    Minerais
+        Cinza                                         4.26          g         weighted
+        Sódio (Na)                                    1             mg        weighted
+        Potássio (K)                                  780           mg        weighted
+        Cálcio (Ca)                                   54            mg        57
+        Fósforo (P)                                   350           mg        weighted
+        Magnésio (Mg)                                 270           mg        weighted
+        Ferro (Fe)                                    4.7           mg        57
+        Zinco (Zn)                                    6.5           mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                                                                              Version_p pt
+
+
+  Id_pt           Reference_pt
+    57              PIABAD (1993) Programa do Instituto de Alimentação Becel para análise de dietas: programa
+                    profissional para computadores pessoais. Lisboa: IAB
+
+
+
+
+                                                      Page 3 of 3
+

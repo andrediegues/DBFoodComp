@@ -1,0 +1,106 @@
+https://insa.foodcase.ch/                                                              Version_p pt
+
+
+  Food_pt
+  Nome:                     Empadão de carne com manteiga
+
+  Grupo:
+
+  SubGrupo:
+
+  Parte Edível:             100%
+
+  Código:                   013-11_D
+
+  Código FoodEX2:
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                 Valor         Unidade   Fonte
+    Valor Energético
+        Energia                                         559           kJ        weighted
+        Energia                                         134           kcal      weighted
+    Macroconstituintes
+       Lípidos                                          6.3           g         weighted
+            Ácidos gordos saturados                     2.6           g         weighted
+            Ácidos gordos monoinsaturados               2.5           g         weighted
+            Ácidos gordos polinsaturados                0.3           g         weighted
+            Ácido linoleico                             0.273         g         weighted
+
+
+                                                       Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        10.7          g         weighted
+                Oligossacáridos                       0.1           g         weighted
+                Sacarose                              0.4           g         weighted
+                Lactose                               0.3           g         weighted
+                Amido                                 9.3           g         weighted
+           Sal                                        460           mg        weighted
+           Fibra alimentar                            1.1           g         weighted
+           Proteína                                   6.6           g         weighted
+           Álcool                                     0.8           g         weighted
+           Água                                       73.3          g         weighted
+           Ácidos orgânicos                           0             g         weighted
+           Colesterol                                 29            mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    26            µg        weighted
+        Caroteno                                      46            µg        weighted
+        Vitamina D                                    0.2           µg        weighted
+        a-tocoferol                                   0.29          mg        weighted
+        Tiamina                                       0.15          mg        weighted
+        Riboflavina                                   0.08          mg        weighted
+        Equivalentes de niacina                       3.13          mg        weighted
+        Niacina                                       1.7           mg        weighted
+        Vitamina B6                                   0.37          mg        weighted
+        Vitamina B12                                  0.46          µg        weighted
+        Vitamina C                                    8.3           mg        weighted
+        Folatos                                       24            µg        weighted
+    Minerais
+        Cinza                                         1.19          g         weighted
+        Sódio (Na)                                    180           mg        weighted
+        Potássio (K)                                  350           mg        weighted
+        Cálcio (Ca)                                   22            mg        weighted
+        Fósforo (P)                                   91            mg        weighted
+        Magnésio (Mg)                                 15            mg        weighted
+        Ferro (Fe)                                    0.5           mg        weighted
+        Zinco (Zn)                                    0.9           mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                 Version_p pt
+
+
+
+
+                            Page 3 of 3
+

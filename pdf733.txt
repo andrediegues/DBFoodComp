@@ -1,0 +1,106 @@
+https://insa.foodcase.ch/                                                                Version_p pt
+
+
+  Food_pt
+  Nome:                     Maçã seca
+
+  Grupo:                    Frutos e Derivados
+
+  SubGrupo:                 Frutos frescos e derivados
+
+  Parte Edível:             100%
+
+  Código:                   IS665
+
+  Código FoodEX2:
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                   Valor         Unidade   Fonte
+    Valor Energético
+        Energia                                           1090          kJ        weighted
+        Energia                                           257           kcal      weighted
+    Macroconstituintes
+       Lípidos                                            0.3           g         weighted
+            Ácidos gordos saturados                       0.1           g         weighted
+            Ácidos gordos monoinsaturados                 0             g         weighted
+            Ácidos gordos polinsaturados                  0.1           g         weighted
+            Ácido linoleico                               0.1           g         weighted
+
+
+                                                         Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        57.1          g         weighted
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              14.8          g         weighted
+                Lactose                               0             g         weighted
+                Amido                                 0             g         weighted
+           Sal                                        65            mg        weighted
+           Fibra alimentar                            9.5           g         weighted
+           Proteína                                   0.8           g         weighted
+           Álcool                                     0             g         weighted
+           Água                                       29.6          g         weighted
+           Ácidos orgânicos                           1.3           g         weighted
+           Colesterol                                 0             mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    2             µg        weighted
+        Caroteno                                      12            µg        weighted
+        Vitamina D                                    0             µg        weighted
+        a-tocoferol                                   1.4           mg        weighted
+        Tiamina                                       0             mg        weighted
+        Riboflavina                                   0.13          mg        weighted
+        Equivalentes de niacina                       0.5           mg        weighted
+        Niacina                                       0.4           mg        weighted
+        Vitamina B6                                   0.1           mg        weighted
+        Vitamina B12                                  0             µg        weighted
+        Vitamina C                                    4             mg        weighted
+        Folatos                                       1             µg        weighted
+    Minerais
+        Cinza                                         1.40          g         weighted
+        Sódio (Na)                                    26            mg        weighted
+        Potássio (K)                                  550           mg        weighted
+        Cálcio (Ca)                                   27            mg        weighted
+        Fósforo (P)                                   33            mg        weighted
+        Magnésio (Mg)                                 22            mg        weighted
+        Ferro (Fe)                                    0.5           mg        weighted
+        Zinco (Zn)                                    0.2           mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                 Version_p pt
+
+
+
+
+                            Page 3 of 3
+

@@ -1,0 +1,106 @@
+https://insa.foodcase.ch/                                                     Version_p pt
+
+
+  Food_pt
+  Nome:                     Empadão de atum
+
+  Grupo:
+
+  SubGrupo:
+
+  Parte Edível:             100%
+
+  Código:                   068-24
+
+  Código FoodEX2:
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                        Valor         Unidade   Fonte
+    Valor Energético
+        Energia                                933           kJ        weighted
+        Energia                                224           kcal      weighted
+    Macroconstituintes
+       Lípidos                                 14.5          g         weighted
+            Ácidos gordos saturados            5.7           g         weighted
+            Ácidos gordos monoinsaturados      3.6           g         weighted
+            Ácidos gordos polinsaturados       4             g         weighted
+            Ácido linoleico                    3.70          g         weighted
+
+
+                                              Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        11.2          g         weighted
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              0.3           g         weighted
+                Lactose                               0.2           g         weighted
+                Amido                                 10.2          g         weighted
+           Sal                                        860           mg        weighted
+           Fibra alimentar                            1             g         weighted
+           Proteína                                   11.6          g         weighted
+           Álcool                                     0             g         weighted
+           Água                                       60.2          g         weighted
+           Ácidos orgânicos                           0.1           g         weighted
+           Colesterol                                 28            mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    84            µg        weighted
+        Caroteno                                      36            µg        weighted
+        Vitamina D                                    0.2           µg        weighted
+        a-tocoferol                                   0.78          mg        weighted
+        Tiamina                                       0.1           mg        weighted
+        Riboflavina                                   0.04          mg        weighted
+        Equivalentes de niacina                       6.27          mg        weighted
+        Niacina                                       3.9           mg        weighted
+        Vitamina B6                                   0.27          mg        weighted
+        Vitamina B12                                  0.87          µg        weighted
+        Vitamina C                                    5.2           mg        weighted
+        Folatos                                       14            µg        weighted
+    Minerais
+        Cinza                                         1.46          g         weighted
+        Sódio (Na)                                    340           mg        weighted
+        Potássio (K)                                  290           mg        weighted
+        Cálcio (Ca)                                   82            mg        weighted
+        Fósforo (P)                                   140           mg        weighted
+        Magnésio (Mg)                                 24            mg        weighted
+        Ferro (Fe)                                    0.5           mg        weighted
+        Zinco (Zn)                                    0.6           mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                 Version_p pt
+
+
+
+
+                            Page 3 of 3
+

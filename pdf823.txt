@@ -1,0 +1,106 @@
+https://insa.foodcase.ch/                                                       Version_p pt
+
+
+  Food_pt
+  Nome:                     Cacau em pó
+
+  Grupo:                    Cacau e Derivados
+
+  SubGrupo:
+
+  Parte Edível:             100%
+
+  Código:                   IS505
+
+  Código FoodEX2:           A03HG
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                          Valor         Unidade   Fonte
+    Valor Energético
+        Energia                                  1480          kJ        weighted
+        Energia                                  358           kcal      weighted
+    Macroconstituintes
+       Lípidos                                   23.4          g         weighted
+            Ácidos gordos saturados              13.8          g         weighted
+            Ácidos gordos monoinsaturados        7.8           g         weighted
+            Ácidos gordos polinsaturados         0.6           g         weighted
+            Ácido linoleico                      0.6           g         weighted
+
+
+                                                Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        11.1          g         weighted
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              0             g         weighted
+                Lactose                               0             g         weighted
+                Amido                                 11.1          g         weighted
+           Sal                                        85            mg        weighted
+           Fibra alimentar                            12.1          g         weighted
+           Proteína                                   19.6          g         weighted
+           Álcool                                     0             g         weighted
+           Água                                       7             g         weighted
+           Ácidos orgânicos                           0             g         weighted
+           Colesterol                                 0             mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    0             µg        weighted
+        Caroteno                                      0             µg        weighted
+        Vitamina D                                    0             µg        weighted
+        a-tocoferol                                   0.5           mg        weighted
+        Tiamina                                       0.12          mg        weighted
+        Riboflavina                                   0.3           mg        weighted
+        Equivalentes de niacina                       6.6           mg        weighted
+        Niacina                                       3.1           mg        weighted
+        Vitamina B6                                   0.11          mg        weighted
+        Vitamina B12                                  0             µg        weighted
+        Vitamina C                                    0             mg        weighted
+        Folatos                                       34            µg        weighted
+    Minerais
+        Cinza                                         4.40          g         weighted
+        Sódio (Na)                                    34            mg        weighted
+        Potássio (K)                                  1840          mg        weighted
+        Cálcio (Ca)                                   110           mg        weighted
+        Fósforo (P)                                   550           mg        weighted
+        Magnésio (Mg)                                 410           mg        weighted
+        Ferro (Fe)                                    5.8           mg        weighted
+        Zinco (Zn)                                    1.9           mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                 Version_p pt
+
+
+
+
+                            Page 3 of 3
+

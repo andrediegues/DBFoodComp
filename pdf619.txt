@@ -1,0 +1,106 @@
+https://insa.foodcase.ch/                                                                    Version_p pt
+
+
+  Food_pt
+  Nome:                     "Donut"
+
+  Grupo:                    Cereais e Derivados
+
+  SubGrupo:                 Bolos e produtos de pastelaria
+
+  Parte Edível:             100%
+
+  Código:                   IS481
+
+  Código FoodEX2:           A00BK
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                       Valor         Unidade   Fonte
+    Valor Energético
+        Energia                                               1670          kJ        weighted
+        Energia                                               400           kcal      weighted
+    Macroconstituintes
+       Lípidos                                                21.7          g         weighted
+            Ácidos gordos saturados                           9.6           g         weighted
+            Ácidos gordos monoinsaturados                     7.5           g         weighted
+            Ácidos gordos polinsaturados                      1.8           g         weighted
+            Ácido linoleico                                   1.7           g         weighted
+
+
+                                                             Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        43            g         weighted
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              8.3           g         weighted
+                Lactose                               0.1           g         weighted
+                Amido                                 28.4          g         weighted
+           Sal                                        580           mg        weighted
+           Fibra alimentar                            3             g         weighted
+           Proteína                                   6.6           g         weighted
+           Álcool                                     0             g         weighted
+           Água                                       23.8          g         weighted
+           Ácidos orgânicos                           0             g         weighted
+           Colesterol                                 31            mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    180           µg        weighted
+        Caroteno                                      270           µg        weighted
+        Vitamina D                                    0.8           µg        weighted
+        a-tocoferol                                   1             mg        weighted
+        Tiamina                                       0.18          mg        weighted
+        Riboflavina                                   0.09          mg        weighted
+        Equivalentes de niacina                       2.3           mg        weighted
+        Niacina                                       1.1           mg        weighted
+        Vitamina B6                                   0.04          mg        weighted
+        Vitamina B12                                  0.00          µg        weighted
+        Vitamina C                                    0             mg        weighted
+        Folatos                                       19            µg        weighted
+    Minerais
+        Cinza                                         1.90          g         weighted
+        Sódio (Na)                                    230           mg        weighted
+        Potássio (K)                                  90            mg        weighted
+        Cálcio (Ca)                                   35            mg        weighted
+        Fósforo (P)                                   95            mg        weighted
+        Magnésio (Mg)                                 14            mg        weighted
+        Ferro (Fe)                                    1.4           mg        weighted
+        Zinco (Zn)                                    0.6           mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                 Version_p pt
+
+
+
+
+                            Page 3 of 3
+

@@ -1,0 +1,106 @@
+https://insa.foodcase.ch/                                                                 Version_p pt
+
+
+  Food_pt
+  Nome:                     Sopa de espinafres com ovos
+
+  Grupo:
+
+  SubGrupo:
+
+  Parte Edível:             100%
+
+  Código:                   141-38
+
+  Código FoodEX2:
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                    Valor         Unidade   Fonte
+    Valor Energético
+        Energia                                            386           kJ        weighted
+        Energia                                            93            kcal      weighted
+    Macroconstituintes
+       Lípidos                                             6.9           g         weighted
+            Ácidos gordos saturados                        1.1           g         weighted
+            Ácidos gordos monoinsaturados                  4.7           g         weighted
+            Ácidos gordos polinsaturados                   0.7           g         weighted
+            Ácido linoleico                                0.586         g         weighted
+
+
+                                                          Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        4.7           g         weighted
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              0.1           g         weighted
+                Lactose                               0             g         weighted
+                Amido                                 4.3           g         weighted
+           Sal                                        480           mg        weighted
+           Fibra alimentar                            1.2           g         weighted
+           Proteína                                   2.4           g         weighted
+           Álcool                                     0             g         weighted
+           Água                                       83.9          g         weighted
+           Ácidos orgânicos                           0             g         weighted
+           Colesterol                                 30            mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    186           µg        weighted
+        Caroteno                                      1030          µg        weighted
+        Vitamina D                                    0.1           µg        weighted
+        a-tocoferol                                   1.49          mg        weighted
+        Tiamina                                       0.03          mg        weighted
+        Riboflavina                                   0.11          mg        weighted
+        Equivalentes de niacina                       0.88          mg        weighted
+        Niacina                                       0.24          mg        weighted
+        Vitamina B6                                   0.09          mg        weighted
+        Vitamina B12                                  0.07          µg        weighted
+        Vitamina C                                    11.8          mg        weighted
+        Folatos                                       53            µg        weighted
+    Minerais
+        Cinza                                         0.897         g         weighted
+        Sódio (Na)                                    190           mg        weighted
+        Potássio (K)                                  170           mg        weighted
+        Cálcio (Ca)                                   41            mg        weighted
+        Fósforo (P)                                   40            mg        weighted
+        Magnésio (Mg)                                 21            mg        weighted
+        Ferro (Fe)                                    1.1           mg        weighted
+        Zinco (Zn)                                    0.5           mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                 Version_p pt
+
+
+
+
+                            Page 3 of 3
+

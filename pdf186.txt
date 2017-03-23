@@ -1,0 +1,98 @@
+https://insa.foodcase.ch/                                                                Version_p pt
+
+
+  Food_pt
+  Nome:                     Vaca magra estufada, sem molho
+
+  Grupo:                    Carne e Derivados, Criação e Caça
+
+  SubGrupo:                 Carne
+
+  Parte Edível:             100%
+
+  Código:                   IS200
+
+  Código FoodEX2:
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                   Valor         Unidade   Fonte
+    Valor Energético
+        Energia                                              980        kJ        weighted
+        Energia                                              234        kcal      weighted
+    Macroconstituintes
+       Lípidos                                               12         g         weighted
+            Ácidos gordos saturados                          4.7        g         weighted
+            Ácidos gordos monoinsaturados                    5.4        g         weighted
+            Ácidos gordos polinsaturados                     0.4        g         weighted
+            Ácido linoleico                                  0.4        g         weighted
+
+
+                                                         Page 1 of 2
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        0             g         weighted
+                Oligossacáridos                       0             g         weighted
+                Amido                                 0             g         weighted
+           Sal                                        650           mg        weighted
+           Fibra alimentar                            0             g         weighted
+           Proteína                                   31.5          g         weighted
+           Álcool                                     0             g         weighted
+           Água                                       54.5          g         weighted
+           Ácidos orgânicos                           0             g         weighted
+           Colesterol                                 69            mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    0             µg        weighted
+        Caroteno                                      0             µg        weighted
+        Vitamina D                                    0.8           µg        weighted
+        a-tocoferol                                   0.11          mg        weighted
+        Tiamina                                       0.05          mg        weighted
+        Riboflavina                                   0.24          mg        weighted
+        Equivalentes de niacina                       11            mg        weighted
+        Niacina                                       4             mg        weighted
+        Vitamina B6                                   0.3           mg        weighted
+        Vitamina B12                                  1.9           µg        weighted
+        Vitamina C                                    0             mg        weighted
+        Folatos                                       6.1           µg        weighted
+    Minerais
+        Cinza                                         1.56          g         weighted
+        Sódio (Na)                                    260           mg        weighted
+        Potássio (K)                                  320           mg        weighted
+        Cálcio (Ca)                                   16            mg        weighted
+        Fósforo (P)                                   310           mg        weighted
+        Magnésio (Mg)                                 23            mg        weighted
+        Ferro (Fe)                                    2             mg        weighted
+        Zinco (Zn)                                    8.3           mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 2
+

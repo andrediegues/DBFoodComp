@@ -1,0 +1,114 @@
+https://insa.foodcase.ch/                                                               Version_p pt
+
+
+  Food_pt
+  Nome:                     Leite evaporado, de vaca
+
+  Grupo:                    Leites e Produtos Lácteos
+
+  SubGrupo:                 Leite
+
+  Parte Edível:             100%
+
+  Código:                   IS035
+
+  Código FoodEX2:
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                  Valor         Unidade   Fonte
+    Valor Energético
+        Energia                                          567           kJ        weighted
+        Energia                                          136           kcal      weighted
+    Macroconstituintes
+       Lípidos                                           7.8           g         57
+            Ácidos gordos saturados                      4.4           g         weighted
+            Ácidos gordos monoinsaturados                1.8           g         weighted
+            Ácidos gordos polinsaturados                 0.2           g         weighted
+            Ácido linoleico                              0.2           g         weighted
+
+
+                                                        Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        9.8           g         57
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              0             g         weighted
+                Lactose                               9.8           g         weighted
+                Amido                                 0             g         weighted
+           Sal                                        350           mg        weighted
+           Fibra alimentar                            0             g         weighted
+           Proteína                                   6.6           g         57
+           Álcool                                     0             g         weighted
+           Água                                       74            g         57
+           Ácidos orgânicos                           0             g         weighted
+           Colesterol                                 28            mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    129           µg        weighted
+        Caroteno                                      106           µg        weighted
+        Vitamina D                                    0.0           µg        weighted
+        a-tocoferol                                   0.14          mg        weighted
+        Tiamina                                       0.06          mg        weighted
+        Riboflavina                                   0.31          mg        weighted
+        Equivalentes de niacina                       2.2           mg        weighted
+        Niacina                                       0.6           mg        weighted
+        Vitamina B6                                   0.06          mg        weighted
+        Vitamina B12                                  0.08          µg        weighted
+        Vitamina C                                    0             mg        weighted
+        Folatos                                       9             µg        weighted
+    Minerais
+        Cinza                                         1.80          g         weighted
+        Sódio (Na)                                    140           mg        9
+        Potássio (K)                                  320           mg        9
+        Cálcio (Ca)                                   260           mg        9
+        Fósforo (P)                                   230           mg        9
+        Magnésio (Mg)                                 22            mg        9
+        Ferro (Fe)                                    0.1           mg        9
+        Zinco (Zn)                                    0.8           mg        9
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                                                                                Version_p pt
+
+
+  Id_pt           Reference_pt
+    9               Paul, AA; Southgate, DAT; Russell, J (1980) - Amino Acids, mg per 100 g Food. Fatty Acids, g per 100g
+                    Food. First Supplement to McCance and Widdowson’s The Composition of Foods. Ministry of
+                    Agriculture, Fisheries and Food. Her Majesty’s Stationary Office
+    57              PIABAD (1993) Programa do Instituto de Alimentação Becel para análise de dietas: programa
+                    profissional para computadores pessoais. Lisboa: IAB
+
+
+
+
+                                                       Page 3 of 3
+

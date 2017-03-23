@@ -1,0 +1,111 @@
+https://insa.foodcase.ch/                                                                Version_p pt
+
+
+  Food_pt
+  Nome:                     Perna de porco magra crua
+
+  Grupo:                    Carne e Derivados, Criação e Caça
+
+  SubGrupo:                 Carne
+
+  Parte Edível:             81%
+
+  Código:                   IS155
+
+  Código FoodEX2:
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                   Valor         Unidade   Fonte
+    Valor Energético
+        Energia                                            634          kJ        weighted
+        Energia                                            152          kcal      weighted
+    Macroconstituintes
+       Lípidos                                             7.5          g         57
+            Ácidos gordos saturados                        2.6          g         weighted
+            Ácidos gordos monoinsaturados                  2.5          g         weighted
+            Ácidos gordos polinsaturados                   1.2          g         weighted
+            Ácido linoleico                                1.1          g         weighted
+
+
+                                                         Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        0             g         weighted
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              0             g         weighted
+                Lactose                               0             g         weighted
+                Amido                                 0             g         weighted
+           Sal                                        220           mg        weighted
+           Fibra alimentar                            0             g         weighted
+           Proteína                                   21            g         57
+           Álcool                                     0             g         weighted
+           Água                                       69.8          g         weighted
+           Ácidos orgânicos                           0             g         weighted
+           Colesterol                                 63            mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    0             µg        weighted
+        Caroteno                                      0             µg        57
+        Vitamina D                                    0.5           µg        weighted
+        a-tocoferol                                   0.8           mg        weighted
+        Tiamina                                       0.7           mg        weighted
+        Riboflavina                                   0.26          mg        57
+        Equivalentes de niacina                       12            mg        weighted
+        Niacina                                       7.2           mg        57
+        Vitamina B6                                   0.46          mg        weighted
+        Vitamina B12                                  1             µg        weighted
+        Vitamina C                                    0             mg        57
+        Folatos                                       1             µg        weighted
+    Minerais
+        Cinza                                         1.12          g         weighted
+        Sódio (Na)                                    86            mg        weighted
+        Potássio (K)                                  420           mg        weighted
+        Cálcio (Ca)                                   12            mg        57
+        Fósforo (P)                                   170           mg        57
+        Magnésio (Mg)                                 25            mg        weighted
+        Ferro (Fe)                                    0.7           mg        weighted
+        Zinco (Zn)                                    2.7           mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                                                                              Version_p pt
+
+
+  Id_pt           Reference_pt
+    57              PIABAD (1993) Programa do Instituto de Alimentação Becel para análise de dietas: programa
+                    profissional para computadores pessoais. Lisboa: IAB
+
+
+
+
+                                                      Page 3 of 3
+

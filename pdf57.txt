@@ -1,0 +1,113 @@
+https://insa.foodcase.ch/                                                                                    Version_p pt
+
+
+  Food_pt
+  Nome:                     Iogurte açucarado com edulcorante de síntese, batido magro com cereais
+
+  Grupo:                    Leites e Produtos Lácteos
+
+  SubGrupo:                 Iogurte
+
+  Parte Edível:             100%
+
+  Código:                   IS069
+
+  Código FoodEX2:
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                   Valor                 Unidade               Fonte
+    Valor Energético
+        Energia                                             208                  kJ                   weighted
+        Energia                                             49                   kcal                 weighted
+    Macroconstituintes
+       Lípidos                                              0.4                  g                    57
+            Ácidos gordos saturados                         0.2                  g                    57
+            Ácidos gordos monoinsaturados                   0.1                  g                    57
+            Ácidos gordos polinsaturados                    0                    g                    57
+            Ácido linoleico                                 0                    g                    57
+
+
+                                                          Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        5.7           g         57
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              0             g         weighted
+                Lactose                               5.7           g         weighted
+                Amido                                 0             g         weighted
+           Sal                                        230           mg        weighted
+           Fibra alimentar                            1             g         57
+           Proteína                                   4.3           g         57
+           Álcool                                     0             g         weighted
+           Água                                       87.6          g         57
+           Ácidos orgânicos                           1.2           g         weighted
+           Colesterol                                 2             mg        57
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    30            µg        47
+        Caroteno                                      17            µg        47
+        Vitamina D                                    0             µg        weighted
+        a-tocoferol                                   0             mg        weighted
+        Tiamina                                       0.04          mg        47
+        Riboflavina                                   0.25          mg        47
+        Equivalentes de niacina                       1.1           mg        47
+        Niacina                                       0.2           mg        47
+        Vitamina B6                                   0.04          mg        47
+        Vitamina B12                                  0             µg        weighted
+        Vitamina C                                    0             mg        weighted
+        Folatos                                       1.7           µg        47
+    Minerais
+        Cinza                                         0.75          g         weighted
+        Sódio (Na)                                    92            mg        47
+        Potássio (K)                                  200           mg        47
+        Cálcio (Ca)                                   120           mg        47
+        Fósforo (P)                                   100           mg        47
+        Magnésio (Mg)                                 17            mg        47
+        Ferro (Fe)                                    0.3           mg        47
+        Zinco (Zn)                                    0.4           mg        47
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                                                                                    Version_p pt
+
+
+  Id_pt           Reference_pt
+    47              Augustin, J; Augustin, E; Cutrufelli, RL (1992) – Alcohol Retention in Food Preparation. Journal
+                    American Dietetic Association, Vol. 92 (4) p. 486-488.
+    57              PIABAD (1993) Programa do Instituto de Alimentação Becel para análise de dietas: programa
+                    profissional para computadores pessoais. Lisboa: IAB
+
+
+
+
+                                                        Page 3 of 3
+

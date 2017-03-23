@@ -1,0 +1,106 @@
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Food_pt
+  Nome:                     Bife de porco grelhado
+
+  Grupo:
+
+  SubGrupo:
+
+  Parte Edível:             100%
+
+  Código:                   185-117
+
+  Código FoodEX2:
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                               Valor         Unidade   Fonte
+    Valor Energético
+        Energia                                       843           kJ        weighted
+        Energia                                       202           kcal      weighted
+    Macroconstituintes
+       Lípidos                                        14.2          g         weighted
+            Ácidos gordos saturados                   6.8           g         weighted
+            Ácidos gordos monoinsaturados             3.9           g         weighted
+            Ácidos gordos polinsaturados              1.2           g         weighted
+            Ácido linoleico                           1.08          g         weighted
+
+
+                                                     Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        0.7           g         weighted
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              0.1           g         weighted
+                Lactose                               0.1           g         weighted
+                Amido                                 0.1           g         weighted
+           Sal                                        630           mg        weighted
+           Fibra alimentar                            0.9           g         weighted
+           Proteína                                   16.7          g         weighted
+           Álcool                                     0             g         weighted
+           Água                                       64.3          g         weighted
+           Ácidos orgânicos                           1.1           g         weighted
+           Colesterol                                 72            mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    130           µg        weighted
+        Caroteno                                      437           µg        weighted
+        Vitamina D                                    0.5           µg        weighted
+        a-tocoferol                                   1.21          mg        weighted
+        Tiamina                                       0.59          mg        weighted
+        Riboflavina                                   0.21          mg        weighted
+        Equivalentes de niacina                       9.46          mg        weighted
+        Niacina                                       5.7           mg        weighted
+        Vitamina B6                                   0.39          mg        weighted
+        Vitamina B12                                  0.77          µg        weighted
+        Vitamina C                                    41.5          mg        weighted
+        Folatos                                       25            µg        weighted
+    Minerais
+        Cinza                                         1.64          g         weighted
+        Sódio (Na)                                    250           mg        weighted
+        Potássio (K)                                  460           mg        weighted
+        Cálcio (Ca)                                   43            mg        weighted
+        Fósforo (P)                                   150           mg        weighted
+        Magnésio (Mg)                                 27            mg        weighted
+        Ferro (Fe)                                    1.1           mg        weighted
+        Zinco (Zn)                                    2.2           mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                 Version_p pt
+
+
+
+
+                            Page 3 of 3
+

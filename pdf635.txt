@@ -1,0 +1,111 @@
+https://insa.foodcase.ch/                                                                          Version_p pt
+
+
+  Food_pt
+  Nome:                     Batata crua
+
+  Grupo:                    Batatas, Produtos Hortícolas e Derivados excepto leguminosas
+
+  SubGrupo:                 Batatas
+
+  Parte Edível:             87%
+
+  Código:                   IS585
+
+  Código FoodEX2:
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                   Valor                 Unidade     Fonte
+    Valor Energético
+        Energia                                             382                  kJ         weighted
+        Energia                                             90                   kcal       weighted
+    Macroconstituintes
+       Lípidos                                              0                    g          weighted
+            Ácidos gordos saturados                         0                    g          weighted
+            Ácidos gordos monoinsaturados                   0                    g          weighted
+            Ácidos gordos polinsaturados                    0                    g          weighted
+            Ácido linoleico                                 0                    g          weighted
+
+
+                                                          Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        19.2          g         weighted
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              0.6           g         weighted
+                Lactose                               0             g         weighted
+                Amido                                 18            g         weighted
+           Sal                                        22            mg        weighted
+           Fibra alimentar                            1.6           g         weighted
+           Proteína                                   2.5           g         57
+           Álcool                                     0             g         weighted
+           Água                                       76            g         57
+           Ácidos orgânicos                           0             g         weighted
+           Colesterol                                 0             mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    0             µg        weighted
+        Caroteno                                      0             µg        weighted
+        Vitamina D                                    0             µg        weighted
+        a-tocoferol                                   0.06          mg        weighted
+        Tiamina                                       0.21          mg        weighted
+        Riboflavina                                   0.02          mg        weighted
+        Equivalentes de niacina                       2             mg        weighted
+        Niacina                                       1.4           mg        weighted
+        Vitamina B6                                   0.44          mg        weighted
+        Vitamina B12                                  0             µg        weighted
+        Vitamina C                                    14            mg        57
+        Folatos                                       35            µg        weighted
+    Minerais
+        Cinza                                         0.74          g         weighted
+        Sódio (Na)                                    9             mg        57
+        Potássio (K)                                  450           mg        57
+        Cálcio (Ca)                                   9             mg        57
+        Fósforo (P)                                   42            mg        57
+        Magnésio (Mg)                                 13            mg        57
+        Ferro (Fe)                                    0.2           mg        57
+        Zinco (Zn)                                    0.2           mg        57
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                                                                              Version_p pt
+
+
+  Id_pt           Reference_pt
+    57              PIABAD (1993) Programa do Instituto de Alimentação Becel para análise de dietas: programa
+                    profissional para computadores pessoais. Lisboa: IAB
+
+
+
+
+                                                      Page 3 of 3
+

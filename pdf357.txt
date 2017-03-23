@@ -1,0 +1,100 @@
+https://insa.foodcase.ch/                                                                          Version_p pt
+
+
+  Food_pt
+  Nome:                     Bacalhau cozido
+
+  Grupo:                    Pescado (Peixe, Moluscos e Crustáceos) e Derivados
+
+  SubGrupo:                 Peixe
+
+  Parte Edível:             100%
+
+  Código:                   IS805
+
+  Código FoodEX2:
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                   Valor                   Unidade   Fonte
+    Valor Energético
+        Energia                                            449                    kJ        weighted
+        Energia                                            106                    kcal      weighted
+    Macroconstituintes
+       Lípidos                                             0.1                    g         77
+            Ácidos gordos saturados                        0                      g         weighted
+            Ácidos gordos monoinsaturados                  0                      g         weighted
+            Ácidos gordos polinsaturados                   0.1                    g         77
+            Ácido linoleico                                0                      g         weighted
+
+
+                                                         Page 1 of 2
+https://insa.foodcase.ch/                                                                                   Version_p pt
+
+
+  Nome                                                  Valor                 Unidade               Fonte
+           Hidratos de carbono                            0                     g                     weighted
+                Oligossacáridos                           0                     g                     weighted
+                Amido                                     0                     g                     weighted
+           Sal                                            3080                  mg                    weighted
+           Fibra alimentar                                0                     g                     weighted
+           Proteína                                       26.2                  g                     77
+           Álcool                                         0                     g                     weighted
+           Água                                           70                    g                     77
+           Ácidos orgânicos                               0                     g                     weighted
+           Colesterol                                     72                    mg                    77
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)        3                     µg                    weighted
+        Caroteno                                          0                     µg                    weighted
+        Vitamina D                                        0.4                   µg                    77
+        a-tocoferol                                       0.28                  mg                    77
+        Tiamina                                           0.02                  mg                    77
+        Riboflavina                                       0.09                  mg                    77
+        Equivalentes de niacina                           5.2                   mg                    weighted
+        Niacina                                           0.28                  mg                    77
+        Vitamina B6                                       0.06                  mg                    77
+        Vitamina B12                                      0.35                  µg                    weighted
+        Vitamina C                                        0                     mg                    weighted
+        Folatos                                           5.7                   µg                    77
+    Minerais
+        Cinza                                             3.20                  g                     77
+        Sódio (Na)                                        1230                  mg                    77
+        Potássio (K)                                      21                    mg                    77
+        Cálcio (Ca)                                       46                    mg                    77
+        Fósforo (P)                                       100                   mg                    77
+        Magnésio (Mg)                                     31                    mg                    77
+        Ferro (Fe)                                        0.6                   mg                    77
+        Zinco (Zn)                                        1.1                   mg                    77
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+  Id_pt            Reference_pt
+    77               Bandarra, NM; Calhau, MA; Oliveira, L; Ramos, M; Dias, MG; Bártolo, H; Faria, MR; Fonseca; MC;
+                     Gonçalves, J; Batista, I; Nunes, ML. (2005) Composição e valor nutricional dos produtos da pesca mais
+                     consumidos em Portugal. INIAP/IPIMAR, INSA, FCT.
+
+                                                        Page 2 of 2
+

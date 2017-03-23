@@ -1,0 +1,106 @@
+https://insa.foodcase.ch/                                                       Version_p pt
+
+
+  Food_pt
+  Nome:                     Creme de ervilhas
+
+  Grupo:
+
+  SubGrupo:
+
+  Parte Edível:             100%
+
+  Código:                   128-36
+
+  Código FoodEX2:
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                          Valor         Unidade   Fonte
+    Valor Energético
+        Energia                                  178           kJ        weighted
+        Energia                                  42            kcal      weighted
+    Macroconstituintes
+       Lípidos                                   1.9           g         weighted
+            Ácidos gordos saturados              0.8           g         weighted
+            Ácidos gordos monoinsaturados        0.5           g         weighted
+            Ácidos gordos polinsaturados         0.5           g         weighted
+            Ácido linoleico                      0.444         g         weighted
+
+
+                                                Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        3             g         weighted
+                Oligossacáridos                       0.5           g         weighted
+                Sacarose                              0.6           g         weighted
+                Lactose                               0.2           g         weighted
+                Amido                                 1.3           g         weighted
+           Sal                                        610           mg        weighted
+           Fibra alimentar                            1.5           g         weighted
+           Proteína                                   2.6           g         weighted
+           Álcool                                     0             g         weighted
+           Água                                       89.9          g         weighted
+           Ácidos orgânicos                           0.0           g         weighted
+           Colesterol                                 2             mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    88            µg        weighted
+        Caroteno                                      469           µg        weighted
+        Vitamina D                                    0.0           µg        weighted
+        a-tocoferol                                   0.12          mg        weighted
+        Tiamina                                       0.21          mg        weighted
+        Riboflavina                                   0.03          mg        weighted
+        Equivalentes de niacina                       1.01          mg        weighted
+        Niacina                                       0.57          mg        weighted
+        Vitamina B6                                   0.07          mg        weighted
+        Vitamina B12                                  0.03          µg        weighted
+        Vitamina C                                    6             mg        weighted
+        Folatos                                       19            µg        weighted
+    Minerais
+        Cinza                                         1.05          g         weighted
+        Sódio (Na)                                    240           mg        weighted
+        Potássio (K)                                  160           mg        weighted
+        Cálcio (Ca)                                   25            mg        weighted
+        Fósforo (P)                                   49            mg        weighted
+        Magnésio (Mg)                                 9.9           mg        weighted
+        Ferro (Fe)                                    0.7           mg        weighted
+        Zinco (Zn)                                    0.4           mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                 Version_p pt
+
+
+
+
+                            Page 3 of 3
+

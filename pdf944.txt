@@ -1,0 +1,106 @@
+https://insa.foodcase.ch/                                                                Version_p pt
+
+
+  Food_pt
+  Nome:                     Molho de tomate, "ketchup"
+
+  Grupo:                    Sopas, Molhos e Diversos
+
+  SubGrupo:                 Molhos
+
+  Parte Edível:             100%
+
+  Código:                   IS960
+
+  Código FoodEX2:           A044P
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                   Valor         Unidade   Fonte
+    Valor Energético
+        Energia                                           506           kJ        weighted
+        Energia                                           119           kcal      weighted
+    Macroconstituintes
+       Lípidos                                            0.3           g         weighted
+            Ácidos gordos saturados                       0             g         weighted
+            Ácidos gordos monoinsaturados                 0.1           g         weighted
+            Ácidos gordos polinsaturados                  0.1           g         weighted
+            Ácido linoleico                               0.1           g         weighted
+
+
+                                                         Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        26.9          g         weighted
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              13.9          g         weighted
+                Lactose                               0             g         weighted
+                Amido                                 1.1           g         weighted
+           Sal                                        3080          mg        weighted
+           Fibra alimentar                            1.1           g         weighted
+           Proteína                                   1.7           g         weighted
+           Álcool                                     0             g         weighted
+           Água                                       67.1          g         weighted
+           Ácidos orgânicos                           0             g         weighted
+           Colesterol                                 0             mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    90            µg        weighted
+        Caroteno                                      537           µg        weighted
+        Vitamina D                                    0             µg        weighted
+        a-tocoferol                                   1.5           mg        weighted
+        Tiamina                                       0.06          mg        weighted
+        Riboflavina                                   0.06          mg        weighted
+        Equivalentes de niacina                       1.5           mg        weighted
+        Niacina                                       1.3           mg        weighted
+        Vitamina B6                                   0.1           mg        weighted
+        Vitamina B12                                  0             µg        weighted
+        Vitamina C                                    11            mg        weighted
+        Folatos                                       8             µg        weighted
+    Minerais
+        Cinza                                         2.90          g         weighted
+        Sódio (Na)                                    1230          mg        weighted
+        Potássio (K)                                  410           mg        weighted
+        Cálcio (Ca)                                   13            mg        weighted
+        Fósforo (P)                                   30            mg        weighted
+        Magnésio (Mg)                                 19            mg        weighted
+        Ferro (Fe)                                    0.7           mg        weighted
+        Zinco (Zn)                                    0.2           mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                 Version_p pt
+
+
+
+
+                            Page 3 of 3
+

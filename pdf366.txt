@@ -1,0 +1,112 @@
+https://insa.foodcase.ch/                                                                          Version_p pt
+
+
+  Food_pt
+  Nome:                     Carapau frito
+
+  Grupo:                    Pescado (Peixe, Moluscos e Crustáceos) e Derivados
+
+  SubGrupo:                 Peixe
+
+  Parte Edível:             100%
+
+  Código:                   IS819
+
+  Código FoodEX2:
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                   Valor                   Unidade   Fonte
+    Valor Energético
+        Energia                                            780                    kJ        weighted
+        Energia                                            186                    kcal      weighted
+    Macroconstituintes
+       Lípidos                                             9.6                    g         77
+            Ácidos gordos saturados                        1.5                    g         77
+            Ácidos gordos monoinsaturados                  2.5                    g         77
+            Ácidos gordos polinsaturados                   4.2                    g         77
+            Ácido linoleico                                3.0                    g         weighted
+
+
+                                                         Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        1             g         weighted
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              0             g         weighted
+                Lactose                               0             g         weighted
+                Amido                                 1             g         weighted
+           Sal                                        1300          mg        weighted
+           Fibra alimentar                            0             g         weighted
+           Proteína                                   24            g         77
+           Álcool                                     0             g         weighted
+           Água                                       62.8          g         77
+           Ácidos orgânicos                           0             g         weighted
+           Colesterol                                 39            mg        77
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    8             µg        weighted
+        Caroteno                                      0             µg        weighted
+        Vitamina D                                    2.8           µg        77
+        a-tocoferol                                   0.79          mg        77
+        Tiamina                                       0.13          mg        77
+        Riboflavina                                   0.17          mg        77
+        Equivalentes de niacina                       10            mg        weighted
+        Niacina                                       5.5           mg        77
+        Vitamina B6                                   0.3           mg        77
+        Vitamina B12                                  6.6           µg        weighted
+        Vitamina C                                    0             mg        weighted
+        Folatos                                       20            µg        77
+    Minerais
+        Cinza                                         2.60          g         77
+        Sódio (Na)                                    520           mg        77
+        Potássio (K)                                  460           mg        77
+        Cálcio (Ca)                                   86            mg        77
+        Fósforo (P)                                   290           mg        77
+        Magnésio (Mg)                                 37            mg        77
+        Ferro (Fe)                                    2             mg        77
+        Zinco (Zn)                                    1.1           mg        77
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                                                                                 Version_p pt
+
+
+  Id_pt           Reference_pt
+    77              Bandarra, NM; Calhau, MA; Oliveira, L; Ramos, M; Dias, MG; Bártolo, H; Faria, MR; Fonseca; MC;
+                    Gonçalves, J; Batista, I; Nunes, ML. (2005) Composição e valor nutricional dos produtos da pesca mais
+                    consumidos em Portugal. INIAP/IPIMAR, INSA, FCT.
+
+
+
+
+                                                       Page 3 of 3
+

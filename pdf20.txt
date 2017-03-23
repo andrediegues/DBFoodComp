@@ -1,0 +1,106 @@
+https://insa.foodcase.ch/                                                               Version_p pt
+
+
+  Food_pt
+  Nome:                     Leite humano, transição
+
+  Grupo:                    Leites e Produtos Lácteos
+
+  SubGrupo:                 Leite
+
+  Parte Edível:             100%
+
+  Código:                   IS037
+
+  Código FoodEX2:
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                  Valor         Unidade   Fonte
+    Valor Energético
+        Energia                                          276           kJ        weighted
+        Energia                                          66            kcal      weighted
+    Macroconstituintes
+       Lípidos                                           3.7           g         weighted
+            Ácidos gordos saturados                      1.5           g         weighted
+            Ácidos gordos monoinsaturados                1.5           g         weighted
+            Ácidos gordos polinsaturados                 0.5           g         weighted
+            Ácido linoleico                              0.3           g         weighted
+
+
+                                                        Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        6.6           g         weighted
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              0             g         weighted
+                Lactose                               6.6           g         weighted
+                Amido                                 0             g         weighted
+           Sal                                        95            mg        weighted
+           Fibra alimentar                            0             g         weighted
+           Proteína                                   1.6           g         weighted
+           Álcool                                     0             g         weighted
+           Água                                       86.9          g         weighted
+           Ácidos orgânicos                           0             g         weighted
+           Colesterol                                 24            mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    117           µg        weighted
+        Caroteno                                      32            µg        weighted
+        Vitamina D                                    0             µg        weighted
+        a-tocoferol                                   0.53          mg        weighted
+        Tiamina                                       0.02          mg        weighted
+        Riboflavina                                   0.03          mg        weighted
+        Equivalentes de niacina                       0.8           mg        weighted
+        Niacina                                       0.2           mg        weighted
+        Vitamina B6                                   0             mg        weighted
+        Vitamina B12                                  0.03          µg        weighted
+        Vitamina C                                    6             mg        weighted
+        Folatos                                       6             µg        weighted
+    Minerais
+        Cinza                                         0.30          g         weighted
+        Sódio (Na)                                    38            mg        weighted
+        Potássio (K)                                  68            mg        weighted
+        Cálcio (Ca)                                   24            mg        weighted
+        Fósforo (P)                                   20            mg        weighted
+        Magnésio (Mg)                                 4             mg        weighted
+        Ferro (Fe)                                    0.1           mg        weighted
+        Zinco (Zn)                                    0.1           mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                 Version_p pt
+
+
+
+
+                            Page 3 of 3
+

@@ -1,0 +1,106 @@
+https://insa.foodcase.ch/                                                                       Version_p pt
+
+
+  Food_pt
+  Nome:                     Frango (1/4 de frango), perna com pele grelhada
+
+  Grupo:                    Carne e Derivados, Criação e Caça
+
+  SubGrupo:                 Criação e caça
+
+  Parte Edível:             100%
+
+  Código:                   IS260
+
+  Código FoodEX2:
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                    Valor               Unidade   Fonte
+    Valor Energético
+        Energia                                             964                kJ        weighted
+        Energia                                             231                kcal      weighted
+    Macroconstituintes
+       Lípidos                                              13.7               g         weighted
+            Ácidos gordos saturados                         3.2                g         weighted
+            Ácidos gordos monoinsaturados                   4.5                g         weighted
+            Ácidos gordos polinsaturados                    2.9                g         weighted
+            Ácido linoleico                                 2.4                g         weighted
+
+
+                                                          Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        0             g         weighted
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              0             g         weighted
+                Lactose                               0             g         weighted
+                Amido                                 0             g         weighted
+           Sal                                        750           mg        weighted
+           Fibra alimentar                            0             g         weighted
+           Proteína                                   26.9          g         weighted
+           Álcool                                     0             g         weighted
+           Água                                       57.1          g         weighted
+           Ácidos orgânicos                           0             g         weighted
+           Colesterol                                 131           mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    30            µg        weighted
+        Caroteno                                      0             µg        weighted
+        Vitamina D                                    0.6           µg        weighted
+        a-tocoferol                                   0.3           mg        weighted
+        Tiamina                                       0.1           mg        weighted
+        Riboflavina                                   0.38          mg        weighted
+        Equivalentes de niacina                       11            mg        weighted
+        Niacina                                       5.8           mg        weighted
+        Vitamina B6                                   0.16          mg        weighted
+        Vitamina B12                                  0.91          µg        weighted
+        Vitamina C                                    0             mg        weighted
+        Folatos                                       6.6           µg        weighted
+    Minerais
+        Cinza                                         2.28          g         weighted
+        Sódio (Na)                                    300           mg        weighted
+        Potássio (K)                                  410           mg        weighted
+        Cálcio (Ca)                                   22            mg        weighted
+        Fósforo (P)                                   190           mg        weighted
+        Magnésio (Mg)                                 25            mg        weighted
+        Ferro (Fe)                                    1.4           mg        weighted
+        Zinco (Zn)                                    1.4           mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                 Version_p pt
+
+
+
+
+                            Page 3 of 3
+

@@ -1,0 +1,111 @@
+https://insa.foodcase.ch/                                                               Version_p pt
+
+
+  Food_pt
+  Nome:                     Requeijão 8% de proteína
+
+  Grupo:                    Leites e Produtos Lácteos
+
+  SubGrupo:                 Queijo
+
+  Parte Edível:             100%
+
+  Código:                   IS042
+
+  Código FoodEX2:           A02QG
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                  Valor         Unidade   Fonte
+    Valor Energético
+        Energia                                          624           kJ        weighted
+        Energia                                          150           kcal      weighted
+    Macroconstituintes
+       Lípidos                                           11.3          g         57
+            Ácidos gordos saturados                      6.1           g         weighted
+            Ácidos gordos monoinsaturados                2.9           g         weighted
+            Ácidos gordos polinsaturados                 0.4           g         weighted
+            Ácido linoleico                              0.3           g         weighted
+
+
+                                                        Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        4.1           g         57
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              0             g         weighted
+                Lactose                               4.1           g         weighted
+                Amido                                 0             g         weighted
+           Sal                                        900           mg        weighted
+           Fibra alimentar                            0             g         weighted
+           Proteína                                   8             g         57
+           Álcool                                     0             g         weighted
+           Água                                       73.1          g         57
+           Ácidos orgânicos                           0             g         weighted
+           Colesterol                                 49            mg        57
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    146           µg        weighted
+        Caroteno                                      51            µg        weighted
+        Vitamina D                                    0.0           µg        weighted
+        a-tocoferol                                   1.1           mg        weighted
+        Tiamina                                       0.02          mg        weighted
+        Riboflavina                                   0.19          mg        weighted
+        Equivalentes de niacina                       3.2           mg        weighted
+        Niacina                                       1.3           mg        weighted
+        Vitamina B6                                   0.01          mg        weighted
+        Vitamina B12                                  0.6           µg        weighted
+        Vitamina C                                    0             mg        weighted
+        Folatos                                       11            µg        weighted
+    Minerais
+        Cinza                                         3.50          g         weighted
+        Sódio (Na)                                    360           mg        57
+        Potássio (K)                                  150           mg        57
+        Cálcio (Ca)                                   300           mg        57
+        Fósforo (P)                                   190           mg        57
+        Magnésio (Mg)                                 19            mg        57
+        Ferro (Fe)                                    0.1           mg        57
+        Zinco (Zn)                                    0.8           mg        57
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                                                                              Version_p pt
+
+
+  Id_pt           Reference_pt
+    57              PIABAD (1993) Programa do Instituto de Alimentação Becel para análise de dietas: programa
+                    profissional para computadores pessoais. Lisboa: IAB
+
+
+
+
+                                                      Page 3 of 3
+

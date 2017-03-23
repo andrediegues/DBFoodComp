@@ -1,0 +1,111 @@
+https://insa.foodcase.ch/                                                                          Version_p pt
+
+
+  Food_pt
+  Nome:                     Pastel de bacalhau
+
+  Grupo:                    Pescado (Peixe, Moluscos e Crustáceos) e Derivados
+
+  SubGrupo:                 Salgados de peixe
+
+  Parte Edível:             100%
+
+  Código:                   IS953
+
+  Código FoodEX2:           A03XT
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                   Valor                   Unidade   Fonte
+    Valor Energético
+        Energia                                            949                    kJ        weighted
+        Energia                                            227                    kcal      weighted
+    Macroconstituintes
+       Lípidos                                             13.4                   g         57
+            Ácidos gordos saturados                        1.8                    g         weighted
+            Ácidos gordos monoinsaturados                  3.1                    g         weighted
+            Ácidos gordos polinsaturados                   7.5                    g         weighted
+            Ácido linoleico                                7.4                    g         weighted
+
+
+                                                         Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        12.3          g         57
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              0.4           g         weighted
+                Lactose                               0             g         weighted
+                Amido                                 11.4          g         weighted
+           Sal                                        1180          mg        weighted
+           Fibra alimentar                            1.2           g         weighted
+           Proteína                                   13.8          g         57
+           Álcool                                     0             g         weighted
+           Água                                       58.4          g         57
+           Ácidos orgânicos                           0             g         weighted
+           Colesterol                                 102           mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    45            µg        weighted
+        Caroteno                                      73            µg        weighted
+        Vitamina D                                    2.3           µg        weighted
+        a-tocoferol                                   7.4           mg        weighted
+        Tiamina                                       0.14          mg        weighted
+        Riboflavina                                   0.14          mg        weighted
+        Equivalentes de niacina                       4.1           mg        weighted
+        Niacina                                       1.2           mg        weighted
+        Vitamina B6                                   0.27          mg        weighted
+        Vitamina B12                                  0.5           µg        weighted
+        Vitamina C                                    10            mg        weighted
+        Folatos                                       32            µg        weighted
+    Minerais
+        Cinza                                         2.10          g         weighted
+        Sódio (Na)                                    470           mg        57
+        Potássio (K)                                  290           mg        weighted
+        Cálcio (Ca)                                   52            mg        57
+        Fósforo (P)                                   120           mg        57
+        Magnésio (Mg)                                 22            mg        weighted
+        Ferro (Fe)                                    1.2           mg        57
+        Zinco (Zn)                                    0.8           mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                                                                              Version_p pt
+
+
+  Id_pt           Reference_pt
+    57              PIABAD (1993) Programa do Instituto de Alimentação Becel para análise de dietas: programa
+                    profissional para computadores pessoais. Lisboa: IAB
+
+
+
+
+                                                      Page 3 of 3
+

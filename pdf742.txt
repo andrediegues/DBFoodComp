@@ -1,0 +1,106 @@
+https://insa.foodcase.ch/                                                                Version_p pt
+
+
+  Food_pt
+  Nome:                     Meloa
+
+  Grupo:                    Frutos e Derivados
+
+  SubGrupo:                 Frutos frescos e derivados
+
+  Parte Edível:             59%
+
+  Código:                   IS675
+
+  Código FoodEX2:           A00KE
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                   Valor         Unidade   Fonte
+    Valor Energético
+        Energia                                           98            kJ        weighted
+        Energia                                           23            kcal      weighted
+    Macroconstituintes
+       Lípidos                                            0.1           g         weighted
+            Ácidos gordos saturados                       0             g         weighted
+            Ácidos gordos monoinsaturados                 0.1           g         weighted
+            Ácidos gordos polinsaturados                  0             g         weighted
+            Ácido linoleico                               0             g         weighted
+
+
+                                                         Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        4.2           g         weighted
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              0.2           g         weighted
+                Lactose                               0             g         weighted
+                Amido                                 0             g         weighted
+           Sal                                        20            mg        weighted
+           Fibra alimentar                            0.9           g         weighted
+           Proteína                                   0.6           g         weighted
+           Álcool                                     0             g         weighted
+           Água                                       92.1          g         weighted
+           Ácidos orgânicos                           0.4           g         weighted
+           Colesterol                                 0             mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    167           µg        weighted
+        Caroteno                                      1000          µg        weighted
+        Vitamina D                                    0             µg        weighted
+        a-tocoferol                                   0.1           mg        weighted
+        Tiamina                                       0.04          mg        weighted
+        Riboflavina                                   0.02          mg        weighted
+        Equivalentes de niacina                       0.6           mg        weighted
+        Niacina                                       0.6           mg        weighted
+        Vitamina B6                                   0.11          mg        weighted
+        Vitamina B12                                  0             µg        weighted
+        Vitamina C                                    26            mg        weighted
+        Folatos                                       5             µg        weighted
+    Minerais
+        Cinza                                         0.68          g         weighted
+        Sódio (Na)                                    8             mg        weighted
+        Potássio (K)                                  210           mg        weighted
+        Cálcio (Ca)                                   20            mg        weighted
+        Fósforo (P)                                   13            mg        weighted
+        Magnésio (Mg)                                 11            mg        weighted
+        Ferro (Fe)                                    0.3           mg        weighted
+        Zinco (Zn)                                    0             mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                 Version_p pt
+
+
+
+
+                            Page 3 of 3
+

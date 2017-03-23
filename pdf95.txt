@@ -1,0 +1,111 @@
+https://insa.foodcase.ch/                                                                Version_p pt
+
+
+  Food_pt
+  Nome:                     Pá de carneiro crua
+
+  Grupo:                    Carne e Derivados, Criação e Caça
+
+  SubGrupo:                 Carne
+
+  Parte Edível:             84%
+
+  Código:                   IS098
+
+  Código FoodEX2:
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                   Valor         Unidade   Fonte
+    Valor Energético
+        Energia                                            815          kJ        weighted
+        Energia                                            195          kcal      weighted
+    Macroconstituintes
+       Lípidos                                             12.6         g         58
+            Ácidos gordos saturados                        5.4          g         weighted
+            Ácidos gordos monoinsaturados                  4            g         weighted
+            Ácidos gordos polinsaturados                   0.4          g         weighted
+            Ácido linoleico                                0.3          g         weighted
+
+
+                                                         Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        0             g         weighted
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              0             g         weighted
+                Lactose                               0             g         weighted
+                Amido                                 0             g         weighted
+           Sal                                        160           mg        weighted
+           Fibra alimentar                            0             g         weighted
+           Proteína                                   20.5          g         58
+           Álcool                                     0             g         weighted
+           Água                                       65.7          g         58
+           Ácidos orgânicos                           0             g         weighted
+           Colesterol                                 68            mg        58
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    0             µg        weighted
+        Caroteno                                      0             µg        weighted
+        Vitamina D                                    0.4           µg        weighted
+        a-tocoferol                                   0.07          mg        weighted
+        Tiamina                                       0.14          mg        weighted
+        Riboflavina                                   0.32          mg        58
+        Equivalentes de niacina                       8.2           mg        weighted
+        Niacina                                       4.3           mg        weighted
+        Vitamina B6                                   0.22          mg        weighted
+        Vitamina B12                                  2             µg        weighted
+        Vitamina C                                    0             mg        weighted
+        Folatos                                       2             µg        weighted
+    Minerais
+        Cinza                                         0.90          g         58
+        Sódio (Na)                                    66            mg        weighted
+        Potássio (K)                                  270           mg        weighted
+        Cálcio (Ca)                                   12            mg        58
+        Fósforo (P)                                   210           mg        58
+        Magnésio (Mg)                                 16            mg        weighted
+        Ferro (Fe)                                    1.3           mg        58
+        Zinco (Zn)                                    2             mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                                                                             Version_p pt
+
+
+  Id_pt           Reference_pt
+    58              Gonçalves Ferreira, FA; Silva Graça, ME (1985) - Tabela de Composição dos Alimentos Portugueses.
+                    Reimpressão da 2ª Edição de 1963. Instituto Nacional de Saúde Dr. Ricardo Jorge, Lisboa.
+
+
+
+
+                                                      Page 3 of 3
+

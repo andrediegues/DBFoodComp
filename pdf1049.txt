@@ -1,0 +1,106 @@
+https://insa.foodcase.ch/                                                                 Version_p pt
+
+
+  Food_pt
+  Nome:                     Rissol de camarão - recheio
+
+  Grupo:
+
+  SubGrupo:
+
+  Parte Edível:             100%
+
+  Código:                   108-30
+
+  Código FoodEX2:
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                    Valor         Unidade   Fonte
+    Valor Energético
+        Energia                                            637           kJ        weighted
+        Energia                                            152           kcal      weighted
+    Macroconstituintes
+       Lípidos                                             6.9           g         weighted
+            Ácidos gordos saturados                        2.9           g         weighted
+            Ácidos gordos monoinsaturados                  1.7           g         weighted
+            Ácidos gordos polinsaturados                   1.9           g         weighted
+            Ácido linoleico                                1.61          g         weighted
+
+
+                                                          Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        11.4          g         weighted
+                Oligossacáridos                       0.2           g         weighted
+                Sacarose                              0.2           g         weighted
+                Lactose                               0.0           g         weighted
+                Amido                                 9.8           g         weighted
+           Sal                                        1240          mg        weighted
+           Fibra alimentar                            1.2           g         weighted
+           Proteína                                   10.1          g         weighted
+           Álcool                                     0             g         weighted
+           Água                                       67.4          g         weighted
+           Ácidos orgânicos                           0.5           g         weighted
+           Colesterol                                 112           mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    114           µg        weighted
+        Caroteno                                      332           µg        weighted
+        Vitamina D                                    0.2           µg        weighted
+        a-tocoferol                                   0.9           mg        weighted
+        Tiamina                                       0.08          mg        weighted
+        Riboflavina                                   0.1           mg        weighted
+        Equivalentes de niacina                       3.43          mg        weighted
+        Niacina                                       1.2           mg        weighted
+        Vitamina B6                                   0.15          mg        weighted
+        Vitamina B12                                  0.89          µg        weighted
+        Vitamina C                                    21.9          mg        weighted
+        Folatos                                       29            µg        weighted
+    Minerais
+        Cinza                                         2.16          g         weighted
+        Sódio (Na)                                    500           mg        weighted
+        Potássio (K)                                  230           mg        weighted
+        Cálcio (Ca)                                   68            mg        weighted
+        Fósforo (P)                                   120           mg        weighted
+        Magnésio (Mg)                                 26            mg        weighted
+        Ferro (Fe)                                    1.7           mg        weighted
+        Zinco (Zn)                                    0.6           mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                 Version_p pt
+
+
+
+
+                            Page 3 of 3
+

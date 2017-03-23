@@ -1,0 +1,111 @@
+https://insa.foodcase.ch/                                                                          Version_p pt
+
+
+  Food_pt
+  Nome:                     Couve de Bruxelas crua
+
+  Grupo:                    Batatas, Produtos Hortícolas e Derivados excepto leguminosas
+
+  SubGrupo:                 Produtos hortícolas
+
+  Parte Edível:             80%
+
+  Código:                   IS554
+
+  Código FoodEX2:           A00FV
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                   Valor                 Unidade     Fonte
+    Valor Energético
+        Energia                                             210                  kJ         weighted
+        Energia                                             50                   kcal       weighted
+    Macroconstituintes
+       Lípidos                                              1.4                  g          weighted
+            Ácidos gordos saturados                         0.3                  g          weighted
+            Ácidos gordos monoinsaturados                   0.1                  g          weighted
+            Ácidos gordos polinsaturados                    0.7                  g          weighted
+            Ácido linoleico                                 0.2                  g          weighted
+
+
+                                                          Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        4             g         weighted
+                Oligossacáridos                       0.2           g         weighted
+                Sacarose                              0.7           g         weighted
+                Lactose                               0             g         weighted
+                Amido                                 0.7           g         weighted
+           Sal                                        15            mg        weighted
+           Fibra alimentar                            3.8           g         weighted
+           Proteína                                   3.5           g         weighted
+           Álcool                                     0             g         weighted
+           Água                                       84.3          g         weighted
+           Ácidos orgânicos                           0             g         weighted
+           Colesterol                                 0             mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    36            µg        weighted
+        Caroteno                                      215           µg        weighted
+        Vitamina D                                    0             µg        weighted
+        a-tocoferol                                   1             mg        weighted
+        Tiamina                                       0.15          mg        weighted
+        Riboflavina                                   0.11          mg        weighted
+        Equivalentes de niacina                       0.9           mg        weighted
+        Niacina                                       0.2           mg        weighted
+        Vitamina B6                                   0.37          mg        weighted
+        Vitamina B12                                  0             µg        weighted
+        Vitamina C                                    115           mg        weighted
+        Folatos                                       140           µg        weighted
+    Minerais
+        Cinza                                         1.40          g         weighted
+        Sódio (Na)                                    6             mg        weighted
+        Potássio (K)                                  450           mg        weighted
+        Cálcio (Ca)                                   26            mg        weighted
+        Fósforo (P)                                   77            mg        weighted
+        Magnésio (Mg)                                 8             mg        weighted
+        Ferro (Fe)                                    0.7           mg        57
+        Zinco (Zn)                                    0.5           mg        57
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                                                                              Version_p pt
+
+
+  Id_pt           Reference_pt
+    57              PIABAD (1993) Programa do Instituto de Alimentação Becel para análise de dietas: programa
+                    profissional para computadores pessoais. Lisboa: IAB
+
+
+
+
+                                                      Page 3 of 3
+

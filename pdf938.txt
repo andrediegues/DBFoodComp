@@ -1,0 +1,106 @@
+https://insa.foodcase.ch/                                                                        Version_p pt
+
+
+  Food_pt
+  Nome:                     Molho de lombo de vaca frito com creme vegetal sem sal
+
+  Grupo:                    Sopas, Molhos e Diversos
+
+  SubGrupo:                 Molhos
+
+  Parte Edível:             100%
+
+  Código:                   IS936
+
+  Código FoodEX2:
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                   Valor                 Unidade   Fonte
+    Valor Energético
+        Energia                                             1440                 kJ       weighted
+        Energia                                             350                  kcal     weighted
+    Macroconstituintes
+       Lípidos                                              37.8                 g        weighted
+            Ácidos gordos saturados                         9.1                  g        weighted
+            Ácidos gordos monoinsaturados                   9.1                  g        weighted
+            Ácidos gordos polinsaturados                    19.3                 g        weighted
+            Ácido linoleico                                 19.2                 g        weighted
+
+
+                                                          Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        0.2           g         weighted
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              0             g         weighted
+                Lactose                               0.2           g         weighted
+                Amido                                 0             g         weighted
+           Sal                                        240           mg        weighted
+           Fibra alimentar                            0             g         weighted
+           Proteína                                   2.2           g         weighted
+           Álcool                                     0             g         weighted
+           Água                                       59.6          g         weighted
+           Ácidos orgânicos                           0             g         weighted
+           Colesterol                                 7             mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    240           µg        weighted
+        Caroteno                                      128           µg        weighted
+        Vitamina D                                    0.1           µg        weighted
+        a-tocoferol                                   20            mg        weighted
+        Tiamina                                       0.01          mg        weighted
+        Riboflavina                                   0.02          mg        weighted
+        Equivalentes de niacina                       0.8           mg        weighted
+        Niacina                                       0.3           mg        weighted
+        Vitamina B6                                   0.03          mg        weighted
+        Vitamina B12                                  0.21          µg        weighted
+        Vitamina C                                    0             mg        weighted
+        Folatos                                       1.4           µg        weighted
+    Minerais
+        Cinza                                         0.20          g         weighted
+        Sódio (Na)                                    95            mg        weighted
+        Potássio (K)                                  52            mg        weighted
+        Cálcio (Ca)                                   6             mg        weighted
+        Fósforo (P)                                   23            mg        weighted
+        Magnésio (Mg)                                 4             mg        weighted
+        Ferro (Fe)                                    0.2           mg        weighted
+        Zinco (Zn)                                    0.4           mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                 Version_p pt
+
+
+
+
+                            Page 3 of 3
+

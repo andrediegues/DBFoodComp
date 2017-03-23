@@ -1,0 +1,106 @@
+https://insa.foodcase.ch/                                                               Version_p pt
+
+
+  Food_pt
+  Nome:                     Soja cozida sem sal
+
+  Grupo:                    Leguminosas Frescas e Secas e Derivados
+
+  SubGrupo:                 Leguminosas secas
+
+  Parte Edível:             100%
+
+  Código:                   IS540
+
+  Código FoodEX2:
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                  Valor         Unidade   Fonte
+    Valor Energético
+        Energia                                           630          kJ        weighted
+        Energia                                           151          kcal      weighted
+    Macroconstituintes
+       Lípidos                                            7.5          g         weighted
+            Ácidos gordos saturados                       1            g         weighted
+            Ácidos gordos monoinsaturados                 1.7          g         weighted
+            Ácidos gordos polinsaturados                  4.5          g         weighted
+            Ácido linoleico                               4.1          g         weighted
+
+
+                                                        Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        5.6           g         weighted
+                Oligossacáridos                       1.2           g         weighted
+                Sacarose                              2.1           g         weighted
+                Lactose                               0             g         weighted
+                Amido                                 2             g         weighted
+           Sal                                        2.5           mg        weighted
+           Fibra alimentar                            5.6           g         weighted
+           Proteína                                   12.5          g         weighted
+           Álcool                                     0             g         weighted
+           Água                                       67            g         weighted
+           Ácidos orgânicos                           0             g         weighted
+           Colesterol                                 0             mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    7             µg        weighted
+        Caroteno                                      40            µg        weighted
+        Vitamina D                                    0             µg        weighted
+        a-tocoferol                                   1             mg        weighted
+        Tiamina                                       0.3           mg        weighted
+        Riboflavina                                   0.14          mg        weighted
+        Equivalentes de niacina                       2.5           mg        weighted
+        Niacina                                       0.5           mg        weighted
+        Vitamina B6                                   0.16          mg        weighted
+        Vitamina B12                                  0             µg        weighted
+        Vitamina C                                    0             mg        weighted
+        Folatos                                       64            µg        weighted
+    Minerais
+        Cinza                                         1.50          g         weighted
+        Sódio (Na)                                    1             mg        weighted
+        Potássio (K)                                  510           mg        weighted
+        Cálcio (Ca)                                   82            mg        weighted
+        Fósforo (P)                                   240           mg        weighted
+        Magnésio (Mg)                                 84            mg        weighted
+        Ferro (Fe)                                    2.6           mg        weighted
+        Zinco (Zn)                                    1.4           mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                 Version_p pt
+
+
+
+
+                            Page 3 of 3
+

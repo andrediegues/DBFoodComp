@@ -1,0 +1,112 @@
+https://insa.foodcase.ch/                                                                          Version_p pt
+
+
+  Food_pt
+  Nome:                     Espadarte cru
+
+  Grupo:                    Pescado (Peixe, Moluscos e Crustáceos) e Derivados
+
+  SubGrupo:                 Peixe
+
+  Parte Edível:             79%
+
+  Código:                   IS834
+
+  Código FoodEX2:
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                   Valor                   Unidade   Fonte
+    Valor Energético
+        Energia                                            410                    kJ        weighted
+        Energia                                            97                     kcal      weighted
+    Macroconstituintes
+       Lípidos                                             2.9                    g         77
+            Ácidos gordos saturados                        0.7                    g         77
+            Ácidos gordos monoinsaturados                  1.2                    g         77
+            Ácidos gordos polinsaturados                   0.5                    g         77
+            Ácido linoleico                                0                      g         weighted
+
+
+                                                         Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        0             g         weighted
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              0             g         weighted
+                Lactose                               0             g         weighted
+                Amido                                 0             g         weighted
+           Sal                                        180           mg        weighted
+           Fibra alimentar                            0             g         weighted
+           Proteína                                   17.8          g         77
+           Álcool                                     0             g         weighted
+           Água                                       77.5          g         77
+           Ácidos orgânicos                           0             g         weighted
+           Colesterol                                 45            mg        77
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    0             µg        weighted
+        Caroteno                                      0             µg        weighted
+        Vitamina D                                    1.3           µg        77
+        a-tocoferol                                   0.09          mg        77
+        Tiamina                                       0.11          mg        77
+        Riboflavina                                   0.04          mg        77
+        Equivalentes de niacina                       7.4           mg        weighted
+        Niacina                                       4.1           mg        77
+        Vitamina B6                                   0.47          mg        77
+        Vitamina B12                                  1.4           µg        77
+        Vitamina C                                    0             mg        weighted
+        Folatos                                       14            µg        77
+    Minerais
+        Cinza                                         1.30          g         77
+        Sódio (Na)                                    72            mg        77
+        Potássio (K)                                  390           mg        77
+        Cálcio (Ca)                                   5             mg        77
+        Fósforo (P)                                   260           mg        77
+        Magnésio (Mg)                                 30            mg        77
+        Ferro (Fe)                                    0.6           mg        77
+        Zinco (Zn)                                    0.9           mg        77
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                                                                                 Version_p pt
+
+
+  Id_pt           Reference_pt
+    77              Bandarra, NM; Calhau, MA; Oliveira, L; Ramos, M; Dias, MG; Bártolo, H; Faria, MR; Fonseca; MC;
+                    Gonçalves, J; Batista, I; Nunes, ML. (2005) Composição e valor nutricional dos produtos da pesca mais
+                    consumidos em Portugal. INIAP/IPIMAR, INSA, FCT.
+
+
+
+
+                                                       Page 3 of 3
+

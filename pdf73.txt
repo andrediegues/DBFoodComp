@@ -1,0 +1,106 @@
+https://insa.foodcase.ch/                                                                           Version_p pt
+
+
+  Food_pt
+  Nome:                     Costeleta ou perna de borrego estufada com azeite e margarina
+
+  Grupo:                    Carne e Derivados, Criação e Caça
+
+  SubGrupo:                 Carne
+
+  Parte Edível:             100%
+
+  Código:                   IS111
+
+  Código FoodEX2:
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                    Valor                Unidade      Fonte
+    Valor Energético
+        Energia                                             763                  kJ          weighted
+        Energia                                             183                  kcal        weighted
+    Macroconstituintes
+       Lípidos                                              12                   g           weighted
+            Ácidos gordos saturados                         4.2                  g           weighted
+            Ácidos gordos monoinsaturados                   5.5                  g           weighted
+            Ácidos gordos polinsaturados                    1.5                  g           weighted
+            Ácido linoleico                                 1.31                 g           weighted
+
+
+                                                          Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        1.6           g         weighted
+                Oligossacáridos                       0.1           g         weighted
+                Sacarose                              0.1           g         weighted
+                Lactose                               0.0           g         weighted
+                Amido                                 0             g         weighted
+           Sal                                        950           mg        weighted
+           Fibra alimentar                            0.6           g         weighted
+           Proteína                                   16.2          g         weighted
+           Álcool                                     0.4           g         weighted
+           Água                                       66.9          g         weighted
+           Ácidos orgânicos                           0             g         weighted
+           Colesterol                                 55            mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    57            µg        weighted
+        Caroteno                                      203           µg        weighted
+        Vitamina D                                    0.3           µg        weighted
+        a-tocoferol                                   1.15          mg        weighted
+        Tiamina                                       0.07          mg        weighted
+        Riboflavina                                   0.16          mg        weighted
+        Equivalentes de niacina                       7.28          mg        weighted
+        Niacina                                       2.5           mg        weighted
+        Vitamina B6                                   0.19          mg        weighted
+        Vitamina B12                                  0.96          µg        weighted
+        Vitamina C                                    6             mg        weighted
+        Folatos                                       6.8           µg        weighted
+    Minerais
+        Cinza                                         2.08          g         weighted
+        Sódio (Na)                                    380           mg        weighted
+        Potássio (K)                                  230           mg        weighted
+        Cálcio (Ca)                                   14            mg        weighted
+        Fósforo (P)                                   140           mg        weighted
+        Magnésio (Mg)                                 22            mg        weighted
+        Ferro (Fe)                                    1.7           mg        weighted
+        Zinco (Zn)                                    2.9           mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                 Version_p pt
+
+
+
+
+                            Page 3 of 3
+

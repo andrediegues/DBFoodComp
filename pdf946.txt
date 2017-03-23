@@ -1,0 +1,111 @@
+https://insa.foodcase.ch/                                                               Version_p pt
+
+
+  Food_pt
+  Nome:                     Base em pó para bebida de ananás
+
+  Grupo:                    Sopas, Molhos e Diversos
+
+  SubGrupo:                 Alimentos diversos
+
+  Parte Edível:             100%
+
+  Código:                   IS738
+
+  Código FoodEX2:
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                  Valor         Unidade   Fonte
+    Valor Energético
+        Energia                                           1570         kJ        weighted
+        Energia                                           369          kcal      weighted
+    Macroconstituintes
+       Lípidos                                            0            g         57
+            Ácidos gordos saturados                       0            g         57
+            Ácidos gordos monoinsaturados                 0            g         57
+            Ácidos gordos polinsaturados                  0            g         57
+            Ácido linoleico                               0            g         57
+
+
+                                                        Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        89.5          g         57
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              88.4          g         weighted
+                Lactose                               0             g         weighted
+                Amido                                 0             g         57
+           Sal                                        0             mg        weighted
+           Fibra alimentar                            0             g         weighted
+           Proteína                                   0             g         57
+           Álcool                                     0             g         57
+           Água                                       1             g         57
+           Ácidos orgânicos                           3.7           g         weighted
+           Colesterol                                 0             mg        57
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    0             µg        weighted
+        Caroteno                                      0             µg        weighted
+        Vitamina D                                    0             µg        57
+        a-tocoferol                                   0             mg        weighted
+        Tiamina                                       0             mg        weighted
+        Riboflavina                                   0             mg        weighted
+        Equivalentes de niacina                       0             mg        weighted
+        Niacina                                       0             mg        weighted
+        Vitamina B6                                   0             mg        weighted
+        Vitamina B12                                  0             µg        weighted
+        Vitamina C                                    230           mg        weighted
+        Folatos                                       0             µg        weighted
+    Minerais
+        Cinza                                         1.40          g         weighted
+        Sódio (Na)                                    0             mg        weighted
+        Potássio (K)                                  0             mg        weighted
+        Cálcio (Ca)                                   0             mg        weighted
+        Fósforo (P)                                   0             mg        weighted
+        Magnésio (Mg)                                 0             mg        weighted
+        Ferro (Fe)                                    0             mg        weighted
+        Zinco (Zn)                                    0             mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                                                                              Version_p pt
+
+
+  Id_pt           Reference_pt
+    57              PIABAD (1993) Programa do Instituto de Alimentação Becel para análise de dietas: programa
+                    profissional para computadores pessoais. Lisboa: IAB
+
+
+
+
+                                                      Page 3 of 3
+

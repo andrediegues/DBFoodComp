@@ -1,0 +1,112 @@
+https://insa.foodcase.ch/                                                                          Version_p pt
+
+
+  Food_pt
+  Nome:                     Maruca crua
+
+  Grupo:                    Pescado (Peixe, Moluscos e Crustáceos) e Derivados
+
+  SubGrupo:                 Peixe
+
+  Parte Edível:             75%
+
+  Código:                   IS848
+
+  Código FoodEX2:           A02CC
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                   Valor                   Unidade   Fonte
+    Valor Energético
+        Energia                                            296                    kJ        weighted
+        Energia                                            70                     kcal      weighted
+    Macroconstituintes
+       Lípidos                                             0.1                    g         77
+            Ácidos gordos saturados                        0                      g         weighted
+            Ácidos gordos monoinsaturados                  0                      g         weighted
+            Ácidos gordos polinsaturados                   0.1                    g         77
+            Ácido linoleico                                0                      g         weighted
+
+
+                                                         Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        0             g         weighted
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              0             g         weighted
+                Lactose                               0             g         weighted
+                Amido                                 0             g         weighted
+           Sal                                        300           mg        weighted
+           Fibra alimentar                            0             g         weighted
+           Proteína                                   17.2          g         77
+           Álcool                                     0             g         weighted
+           Água                                       81.7          g         77
+           Ácidos orgânicos                           0             g         weighted
+           Colesterol                                 28            mg        77
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    9             µg        weighted
+        Caroteno                                      0             µg        weighted
+        Vitamina D                                    0.4           µg        77
+        a-tocoferol                                   0.13          mg        77
+        Tiamina                                       0.04          mg        77
+        Riboflavina                                   0.02          mg        77
+        Equivalentes de niacina                       3.9           mg        weighted
+        Niacina                                       0.67          mg        77
+        Vitamina B6                                   0.07          mg        77
+        Vitamina B12                                  0.48          µg        77
+        Vitamina C                                    0             mg        weighted
+        Folatos                                       6.8           µg        77
+    Minerais
+        Cinza                                         1.00          g         77
+        Sódio (Na)                                    120           mg        77
+        Potássio (K)                                  260           mg        77
+        Cálcio (Ca)                                   25            mg        77
+        Fósforo (P)                                   180           mg        77
+        Magnésio (Mg)                                 25            mg        77
+        Ferro (Fe)                                    0.2           mg        77
+        Zinco (Zn)                                    0.7           mg        77
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                                                                                 Version_p pt
+
+
+  Id_pt           Reference_pt
+    77              Bandarra, NM; Calhau, MA; Oliveira, L; Ramos, M; Dias, MG; Bártolo, H; Faria, MR; Fonseca; MC;
+                    Gonçalves, J; Batista, I; Nunes, ML. (2005) Composição e valor nutricional dos produtos da pesca mais
+                    consumidos em Portugal. INIAP/IPIMAR, INSA, FCT.
+
+
+
+
+                                                       Page 3 of 3
+

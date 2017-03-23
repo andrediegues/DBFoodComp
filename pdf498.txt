@@ -1,0 +1,111 @@
+https://insa.foodcase.ch/                                                               Version_p pt
+
+
+  Food_pt
+  Nome:                     Favas frescas cruas
+
+  Grupo:                    Leguminosas Frescas e Secas e Derivados
+
+  SubGrupo:                 Leguminosas frescas
+
+  Parte Edível:             40%
+
+  Código:                   IS575
+
+  Código FoodEX2:           A012A
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                  Valor         Unidade   Fonte
+    Valor Energético
+        Energia                                           338          kJ        weighted
+        Energia                                           80           kcal      weighted
+    Macroconstituintes
+       Lípidos                                            0.5          g         57
+            Ácidos gordos saturados                       0.1          g         57
+            Ácidos gordos monoinsaturados                 0            g         weighted
+            Ácidos gordos polinsaturados                  0.3          g         weighted
+            Ácido linoleico                               0.1          g         weighted
+
+
+                                                        Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        8.5           g         weighted
+                Oligossacáridos                       0.5           g         weighted
+                Sacarose                              1.1           g         weighted
+                Lactose                               0             g         weighted
+                Amido                                 6.4           g         weighted
+           Sal                                        18            mg        weighted
+           Fibra alimentar                            6.1           g         weighted
+           Proteína                                   7.4           g         57
+           Álcool                                     0             g         weighted
+           Água                                       76.6          g         57
+           Ácidos orgânicos                           0             g         weighted
+           Colesterol                                 0             mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    11            µg        57
+        Caroteno                                      64            µg        57
+        Vitamina D                                    0             µg        weighted
+        a-tocoferol                                   0.46          mg        weighted
+        Tiamina                                       0.04          mg        weighted
+        Riboflavina                                   0.04          mg        weighted
+        Equivalentes de niacina                       2.4           mg        weighted
+        Niacina                                       1.2           mg        weighted
+        Vitamina B6                                   0.06          mg        weighted
+        Vitamina B12                                  0             µg        weighted
+        Vitamina C                                    23            mg        57
+        Folatos                                       150           µg        weighted
+    Minerais
+        Cinza                                         0.84          g         weighted
+        Sódio (Na)                                    7             mg        57
+        Potássio (K)                                  270           mg        weighted
+        Cálcio (Ca)                                   25            mg        57
+        Fósforo (P)                                   87            mg        57
+        Magnésio (Mg)                                 32            mg        57
+        Ferro (Fe)                                    1.2           mg        57
+        Zinco (Zn)                                    1             mg        57
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                                                                              Version_p pt
+
+
+  Id_pt           Reference_pt
+    57              PIABAD (1993) Programa do Instituto de Alimentação Becel para análise de dietas: programa
+                    profissional para computadores pessoais. Lisboa: IAB
+
+
+
+
+                                                      Page 3 of 3
+

@@ -1,0 +1,111 @@
+https://insa.foodcase.ch/                                                                    Version_p pt
+
+
+  Food_pt
+  Nome:                     Bolo de coco
+
+  Grupo:                    Cereais e Derivados
+
+  SubGrupo:                 Bolos e produtos de pastelaria
+
+  Parte Edível:             100%
+
+  Código:                   IS476
+
+  Código FoodEX2:           A00BA
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                       Valor         Unidade   Fonte
+    Valor Energético
+        Energia                                               1890          kJ        weighted
+        Energia                                               454           kcal      weighted
+    Macroconstituintes
+       Lípidos                                                31            g         weighted
+            Ácidos gordos saturados                           21.5          g         weighted
+            Ácidos gordos monoinsaturados                     4.2           g         weighted
+            Ácidos gordos polinsaturados                      1.3           g         weighted
+            Ácido linoleico                                   1.2           g         weighted
+
+
+                                                             Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        37.8          g         weighted
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              32            g         weighted
+                Lactose                               0             g         weighted
+                Amido                                 5.1           g         weighted
+           Sal                                        720           mg        weighted
+           Fibra alimentar                            3.4           g         57
+           Proteína                                   4.2           g         weighted
+           Álcool                                     0             g         weighted
+           Água                                       22.7          g         weighted
+           Ácidos orgânicos                           0             g         weighted
+           Colesterol                                 87            mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    7             µg        weighted
+        Caroteno                                      40            µg        weighted
+        Vitamina D                                    1.7           µg        57
+        a-tocoferol                                   2             mg        weighted
+        Tiamina                                       0.04          mg        weighted
+        Riboflavina                                   0.04          mg        weighted
+        Equivalentes de niacina                       1.9           mg        weighted
+        Niacina                                       0.4           mg        weighted
+        Vitamina B6                                   0.1           mg        weighted
+        Vitamina B12                                  0.00          µg        weighted
+        Vitamina C                                    0             mg        57
+        Folatos                                       7             µg        weighted
+    Minerais
+        Cinza                                         0.95          g         weighted
+        Sódio (Na)                                    290           mg        weighted
+        Potássio (K)                                  110           mg        weighted
+        Cálcio (Ca)                                   21            mg        weighted
+        Fósforo (P)                                   87            mg        weighted
+        Magnésio (Mg)                                 12            mg        weighted
+        Ferro (Fe)                                    1             mg        weighted
+        Zinco (Zn)                                    0.5           mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                                                                              Version_p pt
+
+
+  Id_pt           Reference_pt
+    57              PIABAD (1993) Programa do Instituto de Alimentação Becel para análise de dietas: programa
+                    profissional para computadores pessoais. Lisboa: IAB
+
+
+
+
+                                                      Page 3 of 3
+

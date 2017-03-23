@@ -1,0 +1,111 @@
+https://insa.foodcase.ch/                                                         Version_p pt
+
+
+  Food_pt
+  Nome:                     Esparguete cru
+
+  Grupo:                    Cereais e Derivados
+
+  SubGrupo:                 Massas
+
+  Parte Edível:             100%
+
+  Código:                   IS417
+
+  Código FoodEX2:           A007P
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                            Valor         Unidade   Fonte
+    Valor Energético
+        Energia                                    1530          kJ        weighted
+        Energia                                    360           kcal      weighted
+    Macroconstituintes
+       Lípidos                                     1.9           g         57
+            Ácidos gordos saturados                0.4           g         weighted
+            Ácidos gordos monoinsaturados          0.3           g         weighted
+            Ácidos gordos polinsaturados           1.1           g         weighted
+            Ácido linoleico                        1.0           g         weighted
+
+
+                                                  Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        71.1          g         weighted
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              0.9           g         weighted
+                Lactose                               0             g         weighted
+                Amido                                 68            g         weighted
+           Sal                                        12            mg        weighted
+           Fibra alimentar                            5.1           g         weighted
+           Proteína                                   12.1          g         57
+           Álcool                                     0             g         weighted
+           Água                                       9.3           g         57
+           Ácidos orgânicos                           0             g         weighted
+           Colesterol                                 0             mg        57
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    0             µg        57
+        Caroteno                                      0             µg        57
+        Vitamina D                                    0             µg        57
+        a-tocoferol                                   0             mg        weighted
+        Tiamina                                       0.24          mg        57
+        Riboflavina                                   0.03          mg        weighted
+        Equivalentes de niacina                       4.8           mg        weighted
+        Niacina                                       2.3           mg        57
+        Vitamina B6                                   0.17          mg        weighted
+        Vitamina B12                                  0             µg        57
+        Vitamina C                                    0             mg        57
+        Folatos                                       34            µg        weighted
+    Minerais
+        Cinza                                         0.50          g         weighted
+        Sódio (Na)                                    5             mg        weighted
+        Potássio (K)                                  160           mg        weighted
+        Cálcio (Ca)                                   22            mg        57
+        Fósforo (P)                                   170           mg        weighted
+        Magnésio (Mg)                                 35            mg        weighted
+        Ferro (Fe)                                    2.1           mg        weighted
+        Zinco (Zn)                                    1             mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                                                                              Version_p pt
+
+
+  Id_pt           Reference_pt
+    57              PIABAD (1993) Programa do Instituto de Alimentação Becel para análise de dietas: programa
+                    profissional para computadores pessoais. Lisboa: IAB
+
+
+
+
+                                                      Page 3 of 3
+

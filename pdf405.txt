@@ -1,0 +1,106 @@
+https://insa.foodcase.ch/                                                                          Version_p pt
+
+
+  Food_pt
+  Nome:                     Pargo legítimo assado com cebola, tomate e azeite
+
+  Grupo:                    Pescado (Peixe, Moluscos e Crustáceos) e Derivados
+
+  SubGrupo:                 Peixe
+
+  Parte Edível:             100%
+
+  Código:                   IS852
+
+  Código FoodEX2:
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                    Valor                  Unidade   Fonte
+    Valor Energético
+        Energia                                             569                   kJ        weighted
+        Energia                                             136                   kcal      weighted
+    Macroconstituintes
+       Lípidos                                              6.7                   g         weighted
+            Ácidos gordos saturados                         0.9                   g         weighted
+            Ácidos gordos monoinsaturados                   5.1                   g         weighted
+            Ácidos gordos polinsaturados                    0.6                   g         weighted
+            Ácido linoleico                                 0.462                 g         weighted
+
+
+                                                          Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        1.4           g         weighted
+                Oligossacáridos                       0.1           g         weighted
+                Sacarose                              0.1           g         weighted
+                Lactose                               0             g         weighted
+                Amido                                 0.1           g         weighted
+           Sal                                        920           mg        weighted
+           Fibra alimentar                            0.5           g         weighted
+           Proteína                                   15.9          g         weighted
+           Álcool                                     0.8           g         weighted
+           Água                                       72.1          g         weighted
+           Ácidos orgânicos                           0             g         weighted
+           Colesterol                                 30            mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    25            µg        weighted
+        Caroteno                                      123           µg        weighted
+        Vitamina D                                    6.3           µg        weighted
+        a-tocoferol                                   1.59          mg        weighted
+        Tiamina                                       0.18          mg        weighted
+        Riboflavina                                   0.02          mg        weighted
+        Equivalentes de niacina                       7.02          mg        weighted
+        Niacina                                       3.4           mg        weighted
+        Vitamina B6                                   0.42          mg        weighted
+        Vitamina B12                                  1.5           µg        weighted
+        Vitamina C                                    4.6           mg        weighted
+        Folatos                                       11            µg        weighted
+    Minerais
+        Cinza                                         2.08          g         weighted
+        Sódio (Na)                                    370           mg        weighted
+        Potássio (K)                                  400           mg        weighted
+        Cálcio (Ca)                                   13            mg        weighted
+        Fósforo (P)                                   200           mg        weighted
+        Magnésio (Mg)                                 33            mg        weighted
+        Ferro (Fe)                                    0.8           mg        weighted
+        Zinco (Zn)                                    0.7           mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                 Version_p pt
+
+
+
+
+                            Page 3 of 3
+

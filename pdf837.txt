@@ -1,0 +1,106 @@
+https://insa.foodcase.ch/                                                        Version_p pt
+
+
+  Food_pt
+  Nome:                     Pudim flan caseiro
+
+  Grupo:                    Sobremesas
+
+  SubGrupo:
+
+  Parte Edível:             100%
+
+  Código:                   IS491
+
+  Código FoodEX2:           A04NS
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                           Valor         Unidade   Fonte
+    Valor Energético
+        Energia                                   889           kJ        weighted
+        Energia                                   210           kcal      weighted
+    Macroconstituintes
+       Lípidos                                    4.5           g         weighted
+            Ácidos gordos saturados               1.4           g         weighted
+            Ácidos gordos monoinsaturados         1.5           g         weighted
+            Ácidos gordos polinsaturados          0.7           g         weighted
+            Ácido linoleico                       0.639         g         weighted
+
+
+                                                 Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        36.3          g         weighted
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              33.6          g         weighted
+                Lactose                               2.7           g         weighted
+                Amido                                 0             g         weighted
+           Sal                                        180           mg        weighted
+           Fibra alimentar                            0             g         weighted
+           Proteína                                   6.2           g         weighted
+           Álcool                                     0             g         weighted
+           Água                                       51.9          g         weighted
+           Ácidos orgânicos                           0             g         weighted
+           Colesterol                                 142           mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    76            µg        weighted
+        Caroteno                                      7             µg        weighted
+        Vitamina D                                    0.6           µg        weighted
+        a-tocoferol                                   0.79          mg        weighted
+        Tiamina                                       0.05          mg        weighted
+        Riboflavina                                   0.25          mg        weighted
+        Equivalentes de niacina                       1.78          mg        weighted
+        Niacina                                       0.13          mg        weighted
+        Vitamina B6                                   0.15          mg        weighted
+        Vitamina B12                                  0.4           µg        weighted
+        Vitamina C                                    0             mg        weighted
+        Folatos                                       17            µg        weighted
+    Minerais
+        Cinza                                         0.779         g         weighted
+        Sódio (Na)                                    70            mg        weighted
+        Potássio (K)                                  130           mg        weighted
+        Cálcio (Ca)                                   77            mg        weighted
+        Fósforo (P)                                   110           mg        weighted
+        Magnésio (Mg)                                 8.7           mg        weighted
+        Ferro (Fe)                                    0.8           mg        weighted
+        Zinco (Zn)                                    0.7           mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                 Version_p pt
+
+
+
+
+                            Page 3 of 3
+

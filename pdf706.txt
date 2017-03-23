@@ -1,0 +1,111 @@
+https://insa.foodcase.ch/                                                                Version_p pt
+
+
+  Food_pt
+  Nome:                     Ameixa encarnada
+
+  Grupo:                    Frutos e Derivados
+
+  SubGrupo:                 Frutos frescos e derivados
+
+  Parte Edível:             95%
+
+  Código:                   IS627
+
+  Código FoodEX2:           A01GQ
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                   Valor         Unidade   Fonte
+    Valor Energético
+        Energia                                           172           kJ        weighted
+        Energia                                           41            kcal      weighted
+    Macroconstituintes
+       Lípidos                                            0.2           g         58
+            Ácidos gordos saturados                       0             g         58
+            Ácidos gordos monoinsaturados                 0.1           g         58
+            Ácidos gordos polinsaturados                  0.1           g         58
+            Ácido linoleico                               0.1           g         58
+
+
+                                                         Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        7.4           g         58
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              2.7           g         weighted
+                Lactose                               0             g         weighted
+                Amido                                 0             g         58
+           Sal                                        5             mg        weighted
+           Fibra alimentar                            1.9           g         58
+           Proteína                                   0.8           g         58
+           Álcool                                     0             g         weighted
+           Água                                       88            g         58
+           Ácidos orgânicos                           0.8           g         58
+           Colesterol                                 0             mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    70            µg        58
+        Caroteno                                      420           µg        58
+        Vitamina D                                    0             µg        weighted
+        a-tocoferol                                   0.6           mg        58
+        Tiamina                                       0.02          mg        58
+        Riboflavina                                   0.08          mg        58
+        Equivalentes de niacina                       0.6           mg        58
+        Niacina                                       0.5           mg        58
+        Vitamina B6                                   0.05          mg        weighted
+        Vitamina B12                                  0             µg        weighted
+        Vitamina C                                    2             mg        58
+        Folatos                                       6             µg        weighted
+    Minerais
+        Cinza                                         0.31          g         58
+        Sódio (Na)                                    2             mg        58
+        Potássio (K)                                  190           mg        58
+        Cálcio (Ca)                                   13            mg        58
+        Fósforo (P)                                   13            mg        58
+        Magnésio (Mg)                                 7             mg        58
+        Ferro (Fe)                                    0.2           mg        58
+        Zinco (Zn)                                    0             mg        58
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                                                                             Version_p pt
+
+
+  Id_pt           Reference_pt
+    58              Gonçalves Ferreira, FA; Silva Graça, ME (1985) - Tabela de Composição dos Alimentos Portugueses.
+                    Reimpressão da 2ª Edição de 1963. Instituto Nacional de Saúde Dr. Ricardo Jorge, Lisboa.
+
+
+
+
+                                                      Page 3 of 3
+

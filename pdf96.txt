@@ -1,0 +1,106 @@
+https://insa.foodcase.ch/                                                                    Version_p pt
+
+
+  Food_pt
+  Nome:                     Pá de carneiro assada com azeite e margarina
+
+  Grupo:                    Carne e Derivados, Criação e Caça
+
+  SubGrupo:                 Carne
+
+  Parte Edível:             100%
+
+  Código:                   IS119
+
+  Código FoodEX2:
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                   Valor             Unidade   Fonte
+    Valor Energético
+        Energia                                            1320             kJ        weighted
+        Energia                                            319              kcal      weighted
+    Macroconstituintes
+       Lípidos                                             24.6             g         weighted
+            Ácidos gordos saturados                        9.3              g         weighted
+            Ácidos gordos monoinsaturados                  9.9              g         weighted
+            Ácidos gordos polinsaturados                   2                g         weighted
+            Ácido linoleico                                1.77             g         weighted
+
+
+                                                         Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        0             g         weighted
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              0             g         weighted
+                Lactose                               0.0           g         weighted
+                Amido                                 0             g         weighted
+           Sal                                        1400          mg        weighted
+           Fibra alimentar                            0             g         weighted
+           Proteína                                   24.3          g         weighted
+           Álcool                                     0             g         weighted
+           Água                                       48.4          g         weighted
+           Ácidos orgânicos                           0             g         weighted
+           Colesterol                                 81            mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    32            µg        weighted
+        Caroteno                                      22            µg        weighted
+        Vitamina D                                    0.4           µg        weighted
+        a-tocoferol                                   0.84          mg        weighted
+        Tiamina                                       0.09          mg        weighted
+        Riboflavina                                   0.31          mg        weighted
+        Equivalentes de niacina                       9.72          mg        weighted
+        Niacina                                       3.8           mg        weighted
+        Vitamina B6                                   0.14          mg        weighted
+        Vitamina B12                                  1.7           µg        weighted
+        Vitamina C                                    0             mg        weighted
+        Folatos                                       2             µg        weighted
+    Minerais
+        Cinza                                         2.30          g         weighted
+        Sódio (Na)                                    560           mg        weighted
+        Potássio (K)                                  220           mg        weighted
+        Cálcio (Ca)                                   13            mg        weighted
+        Fósforo (P)                                   210           mg        weighted
+        Magnésio (Mg)                                 19            mg        weighted
+        Ferro (Fe)                                    1.5           mg        weighted
+        Zinco (Zn)                                    2.4           mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                 Version_p pt
+
+
+
+
+                            Page 3 of 3
+

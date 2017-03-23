@@ -1,0 +1,113 @@
+https://insa.foodcase.ch/                                                                Version_p pt
+
+
+  Food_pt
+  Nome:                     Damasco seco
+
+  Grupo:                    Frutos e Derivados
+
+  SubGrupo:                 Frutos frescos e derivados
+
+  Parte Edível:             100%
+
+  Código:                   IS648
+
+  Código FoodEX2:
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                   Valor         Unidade   Fonte
+    Valor Energético
+        Energia                                           1020          kJ        weighted
+        Energia                                           242           kcal      weighted
+    Macroconstituintes
+       Lípidos                                            0.9           g         57
+            Ácidos gordos saturados                       0.1           g         weighted
+            Ácidos gordos monoinsaturados                 0.4           g         weighted
+            Ácidos gordos polinsaturados                  0.2           g         weighted
+            Ácido linoleico                               0.2           g         weighted
+
+
+                                                         Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        41.2          g         58
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              5.4           g         weighted
+                Lactose                               0             g         weighted
+                Amido                                 0             g         weighted
+           Sal                                        110           mg        weighted
+           Fibra alimentar                            19            g         58
+           Proteína                                   5.4           g         57
+           Álcool                                     0             g         weighted
+           Água                                       27.3          g         58
+           Ácidos orgânicos                           3             g         58
+           Colesterol                                 0             mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    417           µg        58
+        Caroteno                                      2500          µg        58
+        Vitamina D                                    0             µg        weighted
+        a-tocoferol                                   4.5           mg        weighted
+        Tiamina                                       0             mg        weighted
+        Riboflavina                                   0.16          mg        58
+        Equivalentes de niacina                       3.7           mg        weighted
+        Niacina                                       3             mg        weighted
+        Vitamina B6                                   0.17          mg        weighted
+        Vitamina B12                                  0             µg        weighted
+        Vitamina C                                    12            mg        58
+        Folatos                                       14            µg        weighted
+    Minerais
+        Cinza                                         3.20          g         weighted
+        Sódio (Na)                                    44            mg        58
+        Potássio (K)                                  1480          mg        58
+        Cálcio (Ca)                                   53            mg        58
+        Fósforo (P)                                   120           mg        weighted
+        Magnésio (Mg)                                 51            mg        58
+        Ferro (Fe)                                    5.8           mg        58
+        Zinco (Zn)                                    0.2           mg        58
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                                                                             Version_p pt
+
+
+  Id_pt           Reference_pt
+    57              PIABAD (1993) Programa do Instituto de Alimentação Becel para análise de dietas: programa
+                    profissional para computadores pessoais. Lisboa: IAB
+    58              Gonçalves Ferreira, FA; Silva Graça, ME (1985) - Tabela de Composição dos Alimentos Portugueses.
+                    Reimpressão da 2ª Edição de 1963. Instituto Nacional de Saúde Dr. Ricardo Jorge, Lisboa.
+
+
+
+
+                                                      Page 3 of 3
+

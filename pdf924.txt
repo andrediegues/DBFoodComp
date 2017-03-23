@@ -1,0 +1,106 @@
+https://insa.foodcase.ch/                                                              Version_p pt
+
+
+  Food_pt
+  Nome:                     Sopa de peixe com massa
+
+  Grupo:                    Sopas, Molhos e Diversos
+
+  SubGrupo:                 Sopas
+
+  Parte Edível:             100%
+
+  Código:                   IS799
+
+  Código FoodEX2:           A041X
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                 Valor         Unidade   Fonte
+    Valor Energético
+        Energia                                         192           kJ        weighted
+        Energia                                         46            kcal      weighted
+    Macroconstituintes
+       Lípidos                                          1.1           g         weighted
+            Ácidos gordos saturados                     0.2           g         weighted
+            Ácidos gordos monoinsaturados               0.7           g         weighted
+            Ácidos gordos polinsaturados                0.2           g         weighted
+            Ácido linoleico                             0.173         g         weighted
+
+
+                                                       Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        5.8           g         weighted
+                Oligossacáridos                       0.1           g         weighted
+                Sacarose                              0.1           g         weighted
+                Lactose                               0             g         weighted
+                Amido                                 4.8           g         weighted
+           Sal                                        600           mg        weighted
+           Fibra alimentar                            0.7           g         weighted
+           Proteína                                   2.8           g         weighted
+           Álcool                                     0             g         weighted
+           Água                                       88.6          g         weighted
+           Ácidos orgânicos                           0             g         weighted
+           Colesterol                                 2             mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    12            µg        weighted
+        Caroteno                                      70            µg        weighted
+        Vitamina D                                    0.5           µg        weighted
+        a-tocoferol                                   0.34          mg        weighted
+        Tiamina                                       0.03          mg        weighted
+        Riboflavina                                   0.01          mg        weighted
+        Equivalentes de niacina                       0.95          mg        weighted
+        Niacina                                       0.34          mg        weighted
+        Vitamina B6                                   0.04          mg        weighted
+        Vitamina B12                                  0.05          µg        weighted
+        Vitamina C                                    1.9           mg        weighted
+        Folatos                                       4.9           µg        weighted
+    Minerais
+        Cinza                                         0.914         g         weighted
+        Sódio (Na)                                    240           mg        weighted
+        Potássio (K)                                  66            mg        weighted
+        Cálcio (Ca)                                   10            mg        weighted
+        Fósforo (P)                                   35            mg        weighted
+        Magnésio (Mg)                                 8             mg        weighted
+        Ferro (Fe)                                    0.2           mg        weighted
+        Zinco (Zn)                                    0.2           mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                 Version_p pt
+
+
+
+
+                            Page 3 of 3
+

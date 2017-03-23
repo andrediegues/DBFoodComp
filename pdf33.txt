@@ -1,0 +1,106 @@
+https://insa.foodcase.ch/                                                               Version_p pt
+
+
+  Food_pt
+  Nome:                     Queijo "Emmental"
+
+  Grupo:                    Leites e Produtos Lácteos
+
+  SubGrupo:                 Queijo
+
+  Parte Edível:             92%
+
+  Código:                   IS039
+
+  Código FoodEX2:
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                  Valor         Unidade   Fonte
+    Valor Energético
+        Energia                                          1600          kJ        weighted
+        Energia                                          384           kcal      weighted
+    Macroconstituintes
+       Lípidos                                           29.7          g         weighted
+            Ácidos gordos saturados                      18.6          g         weighted
+            Ácidos gordos monoinsaturados                8.6           g         weighted
+            Ácidos gordos polinsaturados                 0.9           g         weighted
+            Ácido linoleico                              0.7           g         weighted
+
+
+                                                        Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        0             g         weighted
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              0             g         weighted
+                Lactose                               0             g         weighted
+                Amido                                 0             g         weighted
+           Sal                                        980           mg        weighted
+           Fibra alimentar                            0             g         weighted
+           Proteína                                   28.9          g         weighted
+           Álcool                                     0             g         weighted
+           Água                                       36            g         weighted
+           Ácidos orgânicos                           0.4           g         weighted
+           Colesterol                                 98            mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    250           µg        weighted
+        Caroteno                                      108           µg        weighted
+        Vitamina D                                    0.6           µg        weighted
+        a-tocoferol                                   0.43          mg        weighted
+        Tiamina                                       0.04          mg        weighted
+        Riboflavina                                   0.37          mg        weighted
+        Equivalentes de niacina                       7.3           mg        weighted
+        Niacina                                       0.1           mg        weighted
+        Vitamina B6                                   0.07          mg        weighted
+        Vitamina B12                                  2.1           µg        weighted
+        Vitamina C                                    1             mg        weighted
+        Folatos                                       11            µg        weighted
+    Minerais
+        Cinza                                         4.00          g         weighted
+        Sódio (Na)                                    390           mg        weighted
+        Potássio (K)                                  100           mg        weighted
+        Cálcio (Ca)                                   1080          mg        weighted
+        Fósforo (P)                                   670           mg        weighted
+        Magnésio (Mg)                                 38            mg        weighted
+        Ferro (Fe)                                    0.4           mg        weighted
+        Zinco (Zn)                                    4.7           mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                 Version_p pt
+
+
+
+
+                            Page 3 of 3
+

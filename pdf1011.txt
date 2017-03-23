@@ -1,0 +1,106 @@
+https://insa.foodcase.ch/                                                                Version_p pt
+
+
+  Food_pt
+  Nome:                     Caldeirada de enguias à moda de Aveiro
+
+  Grupo:
+
+  SubGrupo:
+
+  Parte Edível:             100%
+
+  Código:                   060-23
+
+  Código FoodEX2:
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                   Valor         Unidade   Fonte
+    Valor Energético
+        Energia                                            1010         kJ        weighted
+        Energia                                            245          kcal      weighted
+    Macroconstituintes
+       Lípidos                                             21.4         g         weighted
+            Ácidos gordos saturados                        5.8          g         weighted
+            Ácidos gordos monoinsaturados                  6.5          g         weighted
+            Ácidos gordos polinsaturados                   5.3          g         weighted
+            Ácido linoleico                                0.689        g         weighted
+
+
+                                                         Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        5.3           g         weighted
+                Oligossacáridos                       0.2           g         weighted
+                Sacarose                              0.3           g         weighted
+                Lactose                               0             g         weighted
+                Amido                                 4.4           g         weighted
+           Sal                                        720           mg        weighted
+           Fibra alimentar                            0.7           g         weighted
+           Proteína                                   7.4           g         weighted
+           Álcool                                     0             g         weighted
+           Água                                       63.5          g         weighted
+           Ácidos orgânicos                           0.0           g         weighted
+           Colesterol                                 16            mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    446           µg        weighted
+        Caroteno                                      68            µg        weighted
+        Vitamina D                                    7.8           µg        weighted
+        a-tocoferol                                   1.84          mg        weighted
+        Tiamina                                       0.22          mg        weighted
+        Riboflavina                                   0.14          mg        weighted
+        Equivalentes de niacina                       2.5           mg        weighted
+        Niacina                                       1.1           mg        weighted
+        Vitamina B6                                   0.22          mg        weighted
+        Vitamina B12                                  0.93          µg        weighted
+        Vitamina C                                    9.3           mg        weighted
+        Folatos                                       20            µg        weighted
+    Minerais
+        Cinza                                         1.53          g         weighted
+        Sódio (Na)                                    290           mg        weighted
+        Potássio (K)                                  250           mg        weighted
+        Cálcio (Ca)                                   80            mg        weighted
+        Fósforo (P)                                   140           mg        weighted
+        Magnésio (Mg)                                 16            mg        weighted
+        Ferro (Fe)                                    0.5           mg        weighted
+        Zinco (Zn)                                    1.4           mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                 Version_p pt
+
+
+
+
+                            Page 3 of 3
+

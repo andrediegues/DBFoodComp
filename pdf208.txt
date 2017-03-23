@@ -1,0 +1,106 @@
+https://insa.foodcase.ch/                                                                  Version_p pt
+
+
+  Food_pt
+  Nome:                     Lombo de vitela frito, sem molho
+
+  Grupo:                    Carne e Derivados, Criação e Caça
+
+  SubGrupo:                 Carne
+
+  Parte Edível:             100%
+
+  Código:                   IS237
+
+  Código FoodEX2:
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                     Valor         Unidade   Fonte
+    Valor Energético
+        Energia                                                816        kJ        weighted
+        Energia                                                195        kcal      weighted
+    Macroconstituintes
+       Lípidos                                                 10.6       g         weighted
+            Ácidos gordos saturados                            4.7        g         weighted
+            Ácidos gordos monoinsaturados                      4.6        g         weighted
+            Ácidos gordos polinsaturados                       0.9        g         weighted
+            Ácido linoleico                                    0.6        g         weighted
+
+
+                                                           Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        0             g         weighted
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              0             g         weighted
+                Lactose                               0             g         weighted
+                Amido                                 0             g         weighted
+           Sal                                        500           mg        weighted
+           Fibra alimentar                            0             g         weighted
+           Proteína                                   24.9          g         weighted
+           Álcool                                     0             g         weighted
+           Água                                       62.7          g         weighted
+           Ácidos orgânicos                           0             g         weighted
+           Colesterol                                 102           mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    11            µg        weighted
+        Caroteno                                      6             µg        weighted
+        Vitamina D                                    0.0           µg        weighted
+        a-tocoferol                                   0.11          mg        weighted
+        Tiamina                                       0.13          mg        weighted
+        Riboflavina                                   0.24          mg        weighted
+        Equivalentes de niacina                       12            mg        weighted
+        Niacina                                       7             mg        weighted
+        Vitamina B6                                   0.38          mg        weighted
+        Vitamina B12                                  1.1           µg        weighted
+        Vitamina C                                    0             mg        weighted
+        Folatos                                       6.4           µg        weighted
+    Minerais
+        Cinza                                         1.80          g         weighted
+        Sódio (Na)                                    200           mg        weighted
+        Potássio (K)                                  320           mg        weighted
+        Cálcio (Ca)                                   17            mg        weighted
+        Fósforo (P)                                   220           mg        weighted
+        Magnésio (Mg)                                 22            mg        weighted
+        Ferro (Fe)                                    1.1           mg        weighted
+        Zinco (Zn)                                    4             mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                 Version_p pt
+
+
+
+
+                            Page 3 of 3
+

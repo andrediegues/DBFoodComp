@@ -1,0 +1,111 @@
+https://insa.foodcase.ch/                                                                Version_p pt
+
+
+  Food_pt
+  Nome:                     Sumo de limão, fresco (espremido)
+
+  Grupo:                    Bebidas
+
+  SubGrupo:                 Bebidas não alcoólicas
+
+  Parte Edível:             100%
+
+  Código:                   IS744
+
+  Código FoodEX2:
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                   Valor         Unidade   Fonte
+    Valor Energético
+        Energia                                            106          kJ        weighted
+        Energia                                            25           kcal      weighted
+    Macroconstituintes
+       Lípidos                                             0            g         57
+            Ácidos gordos saturados                        0            g         57
+            Ácidos gordos monoinsaturados                  0            g         57
+            Ácidos gordos polinsaturados                   0            g         57
+            Ácido linoleico                                0            g         57
+
+
+                                                         Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        1.5           g         57
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              0.5           g         weighted
+                Lactose                               0             g         weighted
+                Amido                                 0             g         weighted
+           Sal                                        5             mg        weighted
+           Fibra alimentar                            0             g         57
+           Proteína                                   0.3           g         57
+           Álcool                                     0             g         57
+           Água                                       91.7          g         57
+           Ácidos orgânicos                           5.8           g         weighted
+           Colesterol                                 0             mg        57
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    2             µg        57
+        Caroteno                                      12            µg        weighted
+        Vitamina D                                    0             µg        57
+        a-tocoferol                                   0             mg        weighted
+        Tiamina                                       0.03          mg        57
+        Riboflavina                                   0.01          mg        57
+        Equivalentes de niacina                       0.2           mg        weighted
+        Niacina                                       0.2           mg        57
+        Vitamina B6                                   0.05          mg        57
+        Vitamina B12                                  0             µg        57
+        Vitamina C                                    56            mg        57
+        Folatos                                       13            µg        weighted
+    Minerais
+        Cinza                                         0.36          g         weighted
+        Sódio (Na)                                    2             mg        57
+        Potássio (K)                                  130           mg        57
+        Cálcio (Ca)                                   7             mg        weighted
+        Fósforo (P)                                   10            mg        57
+        Magnésio (Mg)                                 7             mg        57
+        Ferro (Fe)                                    0.2           mg        57
+        Zinco (Zn)                                    0             mg        57
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                                                                              Version_p pt
+
+
+  Id_pt           Reference_pt
+    57              PIABAD (1993) Programa do Instituto de Alimentação Becel para análise de dietas: programa
+                    profissional para computadores pessoais. Lisboa: IAB
+
+
+
+
+                                                      Page 3 of 3
+

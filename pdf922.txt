@@ -1,0 +1,106 @@
+https://insa.foodcase.ch/                                                              Version_p pt
+
+
+  Food_pt
+  Nome:                     Sopa juliana
+
+  Grupo:                    Sopas, Molhos e Diversos
+
+  SubGrupo:                 Sopas
+
+  Parte Edível:             100%
+
+  Código:                   IS794
+
+  Código FoodEX2:
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                 Valor         Unidade   Fonte
+    Valor Energético
+        Energia                                         130           kJ        weighted
+        Energia                                         31            kcal      weighted
+    Macroconstituintes
+       Lípidos                                          0.9           g         weighted
+            Ácidos gordos saturados                     0.1           g         weighted
+            Ácidos gordos monoinsaturados               0.7           g         weighted
+            Ácidos gordos polinsaturados                0.1           g         weighted
+            Ácido linoleico                             0.0674        g         weighted
+
+
+                                                       Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        4.3           g         weighted
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              0.3           g         weighted
+                Lactose                               0             g         weighted
+                Amido                                 3.4           g         weighted
+           Sal                                        600           mg        weighted
+           Fibra alimentar                            1             g         weighted
+           Proteína                                   0.9           g         weighted
+           Álcool                                     0             g         weighted
+           Água                                       91.9          g         weighted
+           Ácidos orgânicos                           0             g         weighted
+           Colesterol                                 0             mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    90            µg        weighted
+        Caroteno                                      543           µg        weighted
+        Vitamina D                                    0             µg        weighted
+        a-tocoferol                                   0.2           mg        weighted
+        Tiamina                                       0.05          mg        weighted
+        Riboflavina                                   0.01          mg        weighted
+        Equivalentes de niacina                       0.64          mg        weighted
+        Niacina                                       0.33          mg        weighted
+        Vitamina B6                                   0.08          mg        weighted
+        Vitamina B12                                  0             µg        weighted
+        Vitamina C                                    7.4           mg        weighted
+        Folatos                                       16            µg        weighted
+    Minerais
+        Cinza                                         0.968         g         weighted
+        Sódio (Na)                                    240           mg        weighted
+        Potássio (K)                                  110           mg        weighted
+        Cálcio (Ca)                                   14            mg        weighted
+        Fósforo (P)                                   18            mg        weighted
+        Magnésio (Mg)                                 5.9           mg        weighted
+        Ferro (Fe)                                    0.1           mg        weighted
+        Zinco (Zn)                                    0.1           mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                 Version_p pt
+
+
+
+
+                            Page 3 of 3
+

@@ -1,0 +1,111 @@
+https://insa.foodcase.ch/                                                              Version_p pt
+
+
+  Food_pt
+  Nome:                     Manteiga sem sal
+
+  Grupo:                    Azeite, Óleos e Gorduras
+
+  SubGrupo:                 Gorduras
+
+  Parte Edível:             100%
+
+  Código:                   IS386
+
+  Código FoodEX2:           A039C
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                 Valor         Unidade   Fonte
+    Valor Energético
+        Energia                                         3080          kJ        weighted
+        Energia                                         750           kcal      weighted
+    Macroconstituintes
+       Lípidos                                          83            g         57
+            Ácidos gordos saturados                     47            g         57
+            Ácidos gordos monoinsaturados               19.2          g         57
+            Ácidos gordos polinsaturados                2.4           g         57
+            Ácido linoleico                             2.0           g         57
+
+
+                                                       Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        0.7           g         57
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              0             g         weighted
+                Lactose                               0.7           g         weighted
+                Amido                                 0             g         weighted
+           Sal                                        20            mg        weighted
+           Fibra alimentar                            0             g         57
+           Proteína                                   0.1           g         57
+           Álcool                                     0             g         57
+           Água                                       16            g         57
+           Ácidos orgânicos                           0             g         weighted
+           Colesterol                                 230           mg        57
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    565           µg        weighted
+        Caroteno                                      45            µg        weighted
+        Vitamina D                                    0.7           µg        weighted
+        a-tocoferol                                   2             mg        weighted
+        Tiamina                                       0             mg        weighted
+        Riboflavina                                   0.02          mg        weighted
+        Equivalentes de niacina                       0             mg        weighted
+        Niacina                                       0             mg        weighted
+        Vitamina B6                                   0.01          mg        weighted
+        Vitamina B12                                  0             µg        weighted
+        Vitamina C                                    0             mg        weighted
+        Folatos                                       0             µg        weighted
+    Minerais
+        Cinza                                         0.20          g         weighted
+        Sódio (Na)                                    8             mg        weighted
+        Potássio (K)                                  15            mg        weighted
+        Cálcio (Ca)                                   15            mg        weighted
+        Fósforo (P)                                   24            mg        weighted
+        Magnésio (Mg)                                 2             mg        weighted
+        Ferro (Fe)                                    0.2           mg        weighted
+        Zinco (Zn)                                    0.1           mg        weighted
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                                                                              Version_p pt
+
+
+  Id_pt           Reference_pt
+    57              PIABAD (1993) Programa do Instituto de Alimentação Becel para análise de dietas: programa
+                    profissional para computadores pessoais. Lisboa: IAB
+
+
+
+
+                                                      Page 3 of 3
+

@@ -1,0 +1,114 @@
+https://insa.foodcase.ch/                                                                          Version_p pt
+
+
+  Food_pt
+  Nome:                     Amêijoa crua
+
+  Grupo:                    Pescado (Peixe, Moluscos e Crustáceos) e Derivados
+
+  SubGrupo:                 Moluscos
+
+  Parte Edível:             27%
+
+  Código:                   IS907
+
+  Código FoodEX2:           A02HA
+
+  Composição [g/100g]
+
+
+
+
+  Distribuição energética
+
+
+
+
+  Valores per 100g edible portion
+
+  Nome                                                   Valor                   Unidade   Fonte
+    Valor Energético
+        Energia                                            276                    kJ        weighted
+        Energia                                            65                     kcal      weighted
+    Macroconstituintes
+       Lípidos                                             0.9                    g         weighted
+            Ácidos gordos saturados                        0.2                    g         weighted
+            Ácidos gordos monoinsaturados                  0.1                    g         weighted
+            Ácidos gordos polinsaturados                   0.2                    g         weighted
+            Ácido linoleico                                0                      g         weighted
+
+
+                                                         Page 1 of 3
+https://insa.foodcase.ch/                                                            Version_p pt
+
+
+  Nome                                               Valor         Unidade   Fonte
+           Hidratos de carbono                        2.6           g         weighted
+                Oligossacáridos                       0             g         weighted
+                Sacarose                              0             g         weighted
+                Lactose                               0             g         weighted
+                Amido                                 2.6           g         weighted
+           Sal                                        600           mg        weighted
+           Fibra alimentar                            0             g         weighted
+           Proteína                                   11.7          g         weighted
+           Álcool                                     0             g         weighted
+           Água                                       81.1          g         weighted
+           Ácidos orgânicos                           0             g         weighted
+           Colesterol                                 44            mg        weighted
+    Vitaminas
+        Vitamina A total (equivalentes de retinol)    97            µg        weighted
+        Caroteno                                      0             µg        weighted
+        Vitamina D                                    0.1           µg        57
+        a-tocoferol                                   0.29          mg        57
+        Tiamina                                       0.04          mg        57
+        Riboflavina                                   0.15          mg        57
+        Equivalentes de niacina                       4.2           mg        weighted
+        Niacina                                       1.7           mg        57
+        Vitamina B6                                   0.04          mg        57
+        Vitamina B12                                  37            µg        57
+        Vitamina C                                    0             mg        weighted
+        Folatos                                       9.5           µg        57
+    Minerais
+        Cinza                                         1.00          g         77
+        Sódio (Na)                                    240           mg        57
+        Potássio (K)                                  78            mg        57
+        Cálcio (Ca)                                   51            mg        57
+        Fósforo (P)                                   180           mg        57
+        Magnésio (Mg)                                 100           mg        57
+        Ferro (Fe)                                    8.5           mg        57
+        Zinco (Zn)                                    2.1           mg        57
+
+  Legend_pt
+
+  Código           Nome
+    g                gram
+
+    kJ               kilojoule
+
+    kcal             kilocalorie
+
+    mg               milligram
+
+    µg               microgram
+
+  References_pt
+
+
+
+
+                                                     Page 2 of 3
+https://insa.foodcase.ch/                                                                                 Version_p pt
+
+
+  Id_pt           Reference_pt
+    57              PIABAD (1993) Programa do Instituto de Alimentação Becel para análise de dietas: programa
+                    profissional para computadores pessoais. Lisboa: IAB
+    77              Bandarra, NM; Calhau, MA; Oliveira, L; Ramos, M; Dias, MG; Bártolo, H; Faria, MR; Fonseca; MC;
+                    Gonçalves, J; Batista, I; Nunes, ML. (2005) Composição e valor nutricional dos produtos da pesca mais
+                    consumidos em Portugal. INIAP/IPIMAR, INSA, FCT.
+
+
+
+
+                                                       Page 3 of 3
+
