@@ -10,13 +10,12 @@ public class Comp {
 		name = n;
 		value = v;
 		unity = u;
-		subcomps = null;
+		subcomps = new LinkedList<>();
 	}
-	public Comp(String n, float v, String u, LinkedList<Comp> sc){
-		name = n;
-		value = v;
-		unity = u;
-		subcomps = sc;
+	@Override
+	public String toString() {
+		return "Nome: " + getName() + ",Valor" + getValue() + getUnity()
+				+ "\nSubcomponentes" + getSubcomps().toString();
 	}
 	public String getName() {
 		return name;

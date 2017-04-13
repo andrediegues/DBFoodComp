@@ -18,6 +18,29 @@ public class Food {
 		minerals = min;
 	}
 
+	public Food() {
+		id = Parser.iD++;
+		name = null;
+		group = null;
+		energie = new LinkedList<>();
+		macro = new LinkedList<>();
+		vitamins = new LinkedList<>();
+		minerals = new LinkedList<>();
+	}
+
+	@Override
+	public String toString() {
+		return "ID: " + this.getId() +"\nNome: " + this.getName() + "\nGrupo: " + getGroup() +  "Energias\n" + this.energie.toString() +"\nMacroconstituintes\n" + this.macro.toString() + "\nVitaminas\n" + this.vitamins.toString() + "\nMinerais\n" + this.minerals.toString();
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public void setGroup(String group) {
+		this.group = group;
+	}
+
 	public String getGroup() {
 		return group;
 	}
@@ -26,11 +49,8 @@ public class Food {
 		return id;
 	}
 
-	@Override
-	public String toString() {
-		return "Food [getGroup()=" + getGroup() + ", getId()=" + getId() + ", getName()=" + getName()
-				+ ", getEnergie()=" + getEnergie().toString() + ", getMacro()=" + getMacro().toString() + ", getVitamins()=" + getVitamins().toString()
-				+ ", getMinerals()=" + getMinerals().toString() + "]";
+	public void setId(Integer id) {
+		this.id = id;
 	}
 
 	public String getName() {
