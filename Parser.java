@@ -8,26 +8,256 @@ import java.util.*;
 
 public class Parser{
 
-	public static int iD = 0;
-	
+	public static int iD = 1;
+
 	public static void main(String[] args) throws IOException {
-		int n = 1132;
+		int n = 1133;
 		Food[] food = new Food[n];
-		File inputFile, outputFile;
+		File inputFile;
+		File outputFile;
 
 		outputFile = new File("/home/adiegues/git/DBFoodComp/dataBase.txt");
 		FileWriter fw = new FileWriter(outputFile.getAbsoluteFile());
 		BufferedWriter bw = new BufferedWriter(fw);
+		bw.write("ID,Nome,Grupo,Energia,Energia,Lípidos,Ácidos gordos saturados,Ácidos gordos monoinsaturados,Ácidos gordos polinsaturados,Ácido linoleico,Hidratos de carbono,Oligossacáridos,Sacarose,Lactose,Amido,Sal,Fibra alimentar,Proteína,Álcool,Água,Ácidos orgânicos,Colesterol," + 
+				"Vitamina A,Caroteno,Vitamina D,a-tocoferol,Tiamina,Riboflavina,Equivalentes de niacina,Niacina,Vitamina B6,Vitamina B12,Vitamina C,Folatos,Cinza,Sódio,Potássio,Cálcio,Fósforo,Magnésio,Ferro,Zinco\n");
 		for(int i = 1; i < n; i++){
 			if(i == 264 || i == 967 || i == 968 || i == 969 || i == 970 || i == 972 || i == 975 || i == 976 || i == 978 || i == 979 || i == 985 || i == 1009 || i == 1020 || i == 1051 ||i == 1055 || i == 1057 ||i == 1058 || i == 1063 || i == 1087 || i == 1088 || i == 1119 || i == 1120 || i == 1121) continue;
 			inputFile = new File("/home/adiegues/git/DBFoodComp/pdf" + i + ".txt");
 			food[i] = parseFile(inputFile, /*bw*/ i);
-			System.out.println(food[i].toString());
+			if(food[i] != null){
+				printFood(food[i], bw);
+				bw.write("\n");
+			}
 		}
+
 		bw.close();
 	}
+	private static void printFood(Food food, BufferedWriter bw) throws IOException {
+		// TODO Auto-generated method stub
+		bw.write(food.getId() + "," + food.getName() + "," + food.getGroup());
+
+		if(food.energie.size() == 2){
+			for(int i = 0; i < food.energie.size(); i++){
+				bw.write("," + food.energie.get(i).value + " " + food.energie.get(i).unity);
+			}
+		}
+		else{
+			if(food.energie.get(0).unity.contains("J")){
+				bw.write("," + food.energie.get(0).value + " " + food.energie.get(0).unity + ",0 kcal");
+			}
+			else{
+				bw.write(",0 kJ," + food.energie.get(0).value + " " + food.energie.get(0).unity);
+			}
+		}
+
+		//if(food.macro.size() == 9){
+			for(int i = 0; i < food.macro.size(); i++){
+
+				bw.write("," + food.macro.get(i).value + " " + food.macro.get(i).unity);
+				if(food.macro.get(i).name.equals("Lípidos")){
+					//if(food.macro.get(i).subcomps.size() == 4){
+						for(int j = 0; j < food.macro.get(i).subcomps.size(); j++){
+							bw.write("," + food.macro.get(i).subcomps.get(j).value + " " + food.macro.get(i).subcomps.get(j).unity);							
+						}
+					//}
+					/*else if(food.macro.get(i).subcomps.size() == 0){
+						bw.write(",0 g,0 g,0 g,0 g");							
+					}
+					else{
+						for(int j = 0; j < food.macro.get(i).subcomps.size(); j++){
+							if(food.macro.get(i).subcomps.get(j).name.equals("Ácidos gordos saturados")){
+								bw.write("," + food.macro.get(i).subcomps.get(j).value + " " + food.macro.get(i).subcomps.get(j).unity);							
+							}
+
+							else if(food.macro.get(i).subcomps.get(j).name.equals("Ácidos gordos monoinsaturados") && j == 0){
+								bw.write(",0 g," + food.macro.get(i).subcomps.get(j).value + " " + food.macro.get(i).subcomps.get(j).unity);
+							}
+							else if(food.macro.get(i).subcomps.get(j).name.equals("Ácidos gordos monoinsaturados") && j > 0){
+								bw.write("," + food.macro.get(i).subcomps.get(j).value + " " + food.macro.get(i).subcomps.get(j).unity);
+							}
+
+							else if(food.macro.get(i).subcomps.get(j).name.equals("Ácidos gordos polinsaturados") && j == 0){
+								bw.write(",0 g,0 g," + food.macro.get(i).subcomps.get(j).value + " " + food.macro.get(i).subcomps.get(j).unity);
+							}
+							else if(food.macro.get(i).subcomps.get(j).name.equals("Ácidos gordos polinsaturados") && j == 1){
+								bw.write(",0 g," + food.macro.get(i).subcomps.get(j).value + " " + food.macro.get(i).subcomps.get(j).unity);
+							}
+
+							else if(food.macro.get(i).subcomps.get(j).name.equals("Ácidos gordos polinsaturados") && j == 2){
+								bw.write("," + food.macro.get(i).subcomps.get(j).value + " " + food.macro.get(i).subcomps.get(j).unity);
+							}
+							else if(food.macro.get(i).subcomps.get(j).name.equals("Ácidos linoleico") && j == 0){
+								bw.write(",0 g,0 g,0 g," + food.macro.get(i).subcomps.get(j).value + " " + food.macro.get(i).subcomps.get(j).unity);
+							}
+							else if(food.macro.get(i).subcomps.get(j).name.equals("Ácidos linoleico") && j == 1){
+								bw.write(",0 g,0 g," + food.macro.get(i).subcomps.get(j).value + " " + food.macro.get(i).subcomps.get(j).unity);
+							}
+
+							else if(food.macro.get(i).subcomps.get(j).name.equals("Ácidos linoleico") && j == 2){
+								bw.write(",0 g," + food.macro.get(i).subcomps.get(j).value + " " + food.macro.get(i).subcomps.get(j).unity);
+							}
+							else if(food.macro.get(i).subcomps.get(j).name.equals("Ácidos linoleico") && j == 3){
+								bw.write("," + food.macro.get(i).subcomps.get(j).value + " " + food.macro.get(i).subcomps.get(j).unity);
+							}
+						}
+					}*/
+				}
+
+				if(food.macro.get(i).name.equals("Hidratos de carbono")){
+					//if(food.macro.get(i).subcomps.size() == 4){
+						for(int j = 0; j < food.macro.get(i).subcomps.size(); j++){
+							bw.write("," + food.macro.get(i).subcomps.get(j).value + " " + food.macro.get(i).subcomps.get(j).unity);							
+						}
+					//}
+					/*else if(food.macro.get(i).subcomps.size() == 0){
+						bw.write(",0 g,0 g,0 g,0 g");							
+					}
+					else{
+						for(int j = 0; j < food.macro.get(i).subcomps.size(); j++){
+							if(food.macro.get(i).subcomps.get(j).name.equals("Oligossacáridos")){
+								bw.write("," + food.macro.get(i).subcomps.get(j).value + " " + food.macro.get(i).subcomps.get(j).unity);							
+							}
+
+							else if(food.macro.get(i).subcomps.get(j).name.equals("Sacarose") && j == 0){
+								bw.write(",0 g," + food.macro.get(i).subcomps.get(j).value + " " + food.macro.get(i).subcomps.get(j).unity);
+							}
+							else if(food.macro.get(i).subcomps.get(j).name.equals("Sacarose") && j > 0){
+								bw.write("," + food.macro.get(i).subcomps.get(j).value + " " + food.macro.get(i).subcomps.get(j).unity);
+							}
+
+							else if(food.macro.get(i).subcomps.get(j).name.equals("Lactose") && j == 0){
+								bw.write(",0 g,0 g," + food.macro.get(i).subcomps.get(j).value + " " + food.macro.get(i).subcomps.get(j).unity);
+							}
+							else if(food.macro.get(i).subcomps.get(j).name.equals("Lactose") && j == 1){
+								bw.write(",0 g," + food.macro.get(i).subcomps.get(j).value + " " + food.macro.get(i).subcomps.get(j).unity);
+							}
+							else if(food.macro.get(i).subcomps.get(j).name.equals("Lactose") && j == 2){
+								bw.write("," + food.macro.get(i).subcomps.get(j).value + " " + food.macro.get(i).subcomps.get(j).unity);
+							}
+
+							else if(food.macro.get(i).subcomps.get(j).name.equals("Amido") && j == 0){
+								bw.write(",0 g,0 g,0 g," + food.macro.get(i).subcomps.get(j).value + " " + food.macro.get(i).subcomps.get(j).unity);
+							}
+							else if(food.macro.get(i).subcomps.get(j).name.equals("Amido") && j == 1){
+								bw.write(",0 g,0 g," + food.macro.get(i).subcomps.get(j).value + " " + food.macro.get(i).subcomps.get(j).unity);
+							}
+							else if(food.macro.get(i).subcomps.get(j).name.equals("Amido") && j == 2){
+								bw.write(",0 g," + food.macro.get(i).subcomps.get(j).value + " " + food.macro.get(i).subcomps.get(j).unity);
+							}
+							else if(food.macro.get(i).subcomps.get(j).name.equals("Amido") && j == 3){
+								bw.write("," + food.macro.get(i).subcomps.get(j).value + " " + food.macro.get(i).subcomps.get(j).unity);
+							}
+						}
+					}*/
+				}
+			}
+		//}
+		/*else{
+			for(int i = 0; i < food.macro.size(); i++){
+				if(food.macro.get(i).name.equals("Lípidos")){
+					bw.write("," + food.macro.get(i).value + " " + food.macro.get(i).unity);							
+				}
+
+				else if(food.macro.get(i).name.equals("Hidratos de carbono") && i == 0){
+					bw.write(",0 g," + food.macro.get(i).value + " " + food.macro.get(i).unity);
+				}
+				else if(food.macro.get(i).name.equals("Hidratos de carbono") && i > 0){
+					bw.write("," + food.macro.get(i).value + " " + food.macro.get(i).unity);
+				}
+
+				else if(food.macro.get(i).name.equals("Sal") && i == 0){
+					bw.write(",0 g,0 g," + food.macro.get(i).value + " " + food.macro.get(i).unity);
+				}
+				else if(food.macro.get(i).name.equals("Sal") && i == 1){
+					bw.write(",0 g," + food.macro.get(i).value + " " + food.macro.get(i).unity);
+				}
+				else if(food.macro.get(i).name.equals("Sal") && i == 2){
+					bw.write("," + food.macro.get(i).value + " " + food.macro.get(i).unity);
+				}
+
+				else if(food.macro.get(i).name.equals("Fibra alimentar") && i == 0){
+					bw.write(",0 g,0 g,0 g," + food.macro.get(i).value + " " + food.macro.get(i).unity);
+				}
+				else if(food.macro.get(i).name.equals("Fibra alimentar") && i == 1){
+					bw.write(",0 g,0 g," + food.macro.get(i).value + " " + food.macro.get(i).unity);
+				}
+				else if(food.macro.get(i).name.equals("Fibra alimentar") && i == 2){
+					bw.write(",0 g," + food.macro.get(i).value + " " + food.macro.get(i).unity);
+				}
+				else if(food.macro.get(i).name.equals("Fibra alimentar") && i == 3){
+					bw.write("," + food.macro.get(i).value + " " + food.macro.get(i).unity);
+				}
+				else if(food.macro.get(i).name.equals("Proteína") && i == 0){
+					bw.write(",0 g,0 g,0 g,0 g," + food.macro.get(i).value + " " + food.macro.get(i).unity);
+				}
+				else if(food.macro.get(i).name.equals("Proteína") && i == 1){
+					bw.write(",0 g,0 g,0 g," + food.macro.get(i).value + " " + food.macro.get(i).unity);
+				}
+				else if(food.macro.get(i).name.equals("Proteína") && i == 2){
+					bw.write(",0 g,0 g," + food.macro.get(i).value + " " + food.macro.get(i).unity);
+				}
+				else if(food.macro.get(i).name.equals("Proteína") && i == 3){
+					bw.write(",0 g," + food.macro.get(i).value + " " + food.macro.get(i).unity);
+				}
+				else if(food.macro.get(i).name.equals("Proteína") && i == 4){
+					bw.write("," + food.macro.get(i).value + " " + food.macro.get(i).unity);
+				}
+				
+				else if(food.macro.get(i).name.equals("Álcool") && i == 0){
+					bw.write(",0 g,0 g,0 g,0 g,0 g," + food.macro.get(i).value + " " + food.macro.get(i).unity);
+				}
+				else if(food.macro.get(i).name.equals("Álcool") && i == 1){
+					bw.write(",0 g,0 g,0 g,0 g," + food.macro.get(i).value + " " + food.macro.get(i).unity);
+				}
+				else if(food.macro.get(i).name.equals("Álcool") && i == 2){
+					bw.write(",0 g,0 g,0 g," + food.macro.get(i).value + " " + food.macro.get(i).unity);
+				}
+				else if(food.macro.get(i).name.equals("Álcool") && i == 3){
+					bw.write(",0 g,0 g," + food.macro.get(i).value + " " + food.macro.get(i).unity);
+				}
+				else if(food.macro.get(i).name.equals("Álcool") && i == 4){
+					bw.write(",0 g," + food.macro.get(i).value + " " + food.macro.get(i).unity);
+				}
+				else if(food.macro.get(i).name.equals("Álcool") && i == 5){
+					bw.write("," + food.macro.get(i).value + " " + food.macro.get(i).unity);
+				}
+				
+				else if(food.macro.get(i).name.equals("Água") && i == 0){
+					bw.write(",0 g,0 g,0 g,0 g,0 g,0 g," + food.macro.get(i).value + " " + food.macro.get(i).unity);
+				}
+				else if(food.macro.get(i).name.equals("Água") && i == 1){
+					bw.write(",0 g,0 g,0 g,0 g,0 g," + food.macro.get(i).value + " " + food.macro.get(i).unity);
+				}
+				else if(food.macro.get(i).name.equals("Água") && i == 2){
+					bw.write(",0 g,0 g,0 g,0 g," + food.macro.get(i).value + " " + food.macro.get(i).unity);
+				}
+				else if(food.macro.get(i).name.equals("Água") && i == 3){
+					bw.write(",0 g,0 g,0 g," + food.macro.get(i).value + " " + food.macro.get(i).unity);
+				}
+				else if(food.macro.get(i).name.equals("Água") && i == 4){
+					bw.write(",0 g,0 g," + food.macro.get(i).value + " " + food.macro.get(i).unity);
+				}
+				else if(food.macro.get(i).name.equals("Água") && i == 5){
+					bw.write(",0 g," + food.macro.get(i).value + " " + food.macro.get(i).unity);
+				}
+				else if(food.macro.get(i).name.equals("Água") && i == 6){
+					bw.write("," + food.macro.get(i).value + " " + food.macro.get(i).unity);
+				}
+				
+				
+			}
+		}*/
+		for(int i = 0; i < food.vitamins.size(); i++){
+			bw.write("," + food.vitamins.get(i).value + " " + food.vitamins.get(i).unity);	
+		}
+
+		for(int i = 0; i < food.minerals.size(); i++){
+			bw.write("," + food.minerals.get(i).value + " " + food.minerals.get(i).unity);	
+		}
+	}
 	public static Food parseFile(File inputFile, int i) throws IOException {
-		//System.out.println("Parsing file " + i + "...");
+		System.out.println("Parsing file " + i + "...");
 		Food f = new Food();
 		FileReader fr = new FileReader(inputFile);
 		BufferedReader br = new BufferedReader(fr);
@@ -39,10 +269,10 @@ public class Parser{
 			inputLine = inputLine.replaceAll(",", "");
 			inputLine = inputLine.replaceAll("\"", "");
 			//System.out.println(inputLine);
-			
+
 			if(inputLine.contains("Nome:")){
 				in = new Scanner(inputLine);
-			//	//bw.write(in.next());
+				//	//bw.write(in.next());
 				in.next();
 				in.skip("\\s+");
 				f.setName(in.nextLine());
@@ -50,7 +280,7 @@ public class Parser{
 			}
 			else if(inputLine.contains("Grupo:") && !inputLine.contains("SubGrupo:")){
 				in = new Scanner(inputLine);
-				
+
 				if(in.next().equals("Grupo:")){
 					if(!in.hasNext()){
 						////bw.write(",NULL\n");
@@ -67,7 +297,7 @@ public class Parser{
 			}
 			if(inputLine.contains("Energia")){
 				in = new Scanner(inputLine);
-			//	//bw.write(in.next());
+				//	//bw.write(in.next());
 				f.energie.add(new Comp(in.next(), in.nextFloat(), in.next()));
 				////bw.write("," + name + "\n");
 			}
@@ -304,6 +534,7 @@ public class Parser{
 			if(inputLine.contains("Legend_pt"))
 				break;
 		}
+		f.removeAllEmptySubComps();
 		i++;
 		br.close();
 		return f;

@@ -28,11 +28,6 @@ public class Food {
 		minerals = new LinkedList<>();
 	}
 
-	@Override
-	public String toString() {
-		return "ID: " + this.getId() +"\nNome: " + this.getName() + "\nGrupo: " + getGroup() +  "Energias\n" + this.energie.toString() +"\nMacroconstituintes\n" + this.macro.toString() + "\nVitaminas\n" + this.vitamins.toString() + "\nMinerais\n" + this.minerals.toString();
-	}
-
 	public void setName(String name) {
 		this.name = name;
 	}
@@ -71,6 +66,29 @@ public class Food {
 
 	public LinkedList<Comp> getMinerals() {
 		return minerals;
+	}
+
+	public void removeAllEmptySubComps() {
+		for(int i = 0; i < this.energie.size(); i++){
+			if(this.energie.get(i).subcomps.size() == 0){
+				this.energie.get(i).setSubcomps(null);
+			}
+		}
+		for(int i = 0; i < this.macro.size(); i++){
+			if(this.macro.get(i).subcomps.size() == 0){
+				this.macro.get(i).setSubcomps(null);
+			}
+		}
+		for(int i = 0; i < this.vitamins.size(); i++){
+			if(this.vitamins.get(i).subcomps.size() == 0){
+				this.vitamins.get(i).setSubcomps(null);
+			}
+		}
+		for(int i = 0; i < this.minerals.size(); i++){
+			if(this.minerals.get(i).subcomps.size() == 0){
+				this.minerals.get(i).setSubcomps(null);
+			}
+		}
 	}
 	
 	

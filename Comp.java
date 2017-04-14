@@ -29,4 +29,7 @@ public class Comp {
 	public LinkedList<Comp> getSubcomps() {
 		return subcomps;
 	}
+	public void setSubcomps(LinkedList<Comp> subcomps) {
+		this.subcomps = subcomps;
+	}
 }
